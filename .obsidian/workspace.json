@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/!! DATAVIEW.md",
+                "file": "!! DATAVIEW.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/!! DATAVIEW.md",
+                "file": "!! DATAVIEW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design/!! DATAVIEW.md",
+                "file": "!! DATAVIEW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/!! DATAVIEW.md"
+                "file": "!! DATAVIEW.md"
               }
             }
           }
@@ -148,8 +148,16 @@
   },
   "active": "250ea392af102e18",
   "lastOpenFiles": [
+    "C#/Weak Reference.md",
+    "C#/Types/WeakReference/0. Explained.md",
+    "C#/Expression-Bodied.md",
+    "!! DATAVIEW.md",
+    "CI-CD DevOps/CI Tools.md",
+    "CI-CD DevOps/What is it?.md",
+    "C#/Types/WeakReference/3. Use Cases.md",
+    "C.md",
     "System Design/! NOTES (Dometrain Solutions Architect).md",
-    "System Design/!! DATAVIEW.md",
+    "System Design/! Discussions (Reddit, YT).md",
     "Angular/!! REVERSE ENGINEERING",
     "! IMAGES/Pasted image 20240703101548.png",
     "! INBOX/URL Shortening.md",
@@ -177,15 +185,7 @@
     "Algorithms/1. Data Structures/Binary Tree.md",
     "Algorithms/1. Data Structures/Arrays vs Linked Lists.md",
     "Algorithms/2. Algorithms/Heap Sort.md",
-    "Algorithms/2. Algorithms/Merge Sort.md",
-    "Algorithms/2. Algorithms/Breadth First Search (BFS).md",
-    "Algorithms/2. Algorithms/Backtracking.md",
-    "Interview/Interview Prep.md",
     "Interview",
-    "System Design/Low-Level Design/Design Patterns/Creational/Singleton/Thread Safety.md",
-    "System Design/Low-Level Design/Design Patterns/Creational/Singleton/3. Pitfalls.md",
-    "System Design/Low-Level Design/Design Patterns/Creational/Singleton/2. Use Cases.md",
-    "System Design/Low-Level Design/Design Patterns/Creational/Singleton/1. Code Example.md",
     "System Design/Low-Level Design/Design Patterns/Creational/Singleton",
     "System Design/Low-Level Design/Design Patterns/Creational/Factory Method",
     "System Design/Concepts/Cloud/Azure/Concepts",
