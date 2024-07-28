@@ -1,0 +1,2 @@
+- Multiple clients are trying to access the same resource at the same time. 
+- This can lead to data corruption, lost updates, and other bad things.

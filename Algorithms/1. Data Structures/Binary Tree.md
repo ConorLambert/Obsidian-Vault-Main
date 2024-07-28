@@ -1,0 +1,2 @@
+- A hierarchical data structure in which each node has at most two children, referred to as the left child and the right child.
+- A binary tree can be represented using a Linked List where each node has a left child and right child reference.

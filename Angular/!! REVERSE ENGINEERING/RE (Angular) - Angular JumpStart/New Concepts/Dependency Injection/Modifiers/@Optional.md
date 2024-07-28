@@ -1,0 +1,3 @@
+- Parameter decorator used in constructor parameters.
+- Marks a constructor parameter as being an optional dependency. 
+- Instead of throwing an error, the DI framework returns `null` if the service is not found.

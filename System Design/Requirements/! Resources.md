@@ -1,0 +1,3 @@
+ - Handbook for the CPRE Foundation Level according to the IREB Standard
+	- Really good book I found online that seems quite extensive
+		- It's downloaded to local machine.

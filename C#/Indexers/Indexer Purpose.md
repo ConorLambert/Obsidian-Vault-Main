@@ -1,0 +1,1 @@
+==Indexers are most frequently implemented in types whose *primary* purpose is to encapsulate an internal collection or array.== 

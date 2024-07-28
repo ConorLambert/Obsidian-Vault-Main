@@ -1,0 +1,4 @@
+- Used for dynamically added components
+- Offline template compiler (OTC) only builds components that are actually used. 
+- If components aren't used in templates directly the OTC can't know whether they need to be compiled. 
+- Adding them to `entryComponents` tells the OTC to compile them and create [[Component Factory|factories]] for them.

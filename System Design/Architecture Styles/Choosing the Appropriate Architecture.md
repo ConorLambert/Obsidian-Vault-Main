@@ -1,0 +1,1 @@
+- Dometrain: Solution Architecture [Video](https://courses.dometrain.com/courses/take/getting-started-solution-architecture/lessons/54122054-choosing-the-appropriate-architecture)

@@ -1,0 +1,2 @@
+- A technology that renders Angular applications on the server
+- A normal Angular application executes in the browser, rendering pages in the DOM in response to user actions. Angular Universal executes on the server, generating static application pages that later get bootstrapped on the client.

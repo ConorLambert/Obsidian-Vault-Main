@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "595389573653475f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f535865ad92e453",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "250ea392af102e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/!! DATAVIEW.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b7a3a5e387a1350",
+    "type": "split",
+    "children": [
+      {
+        "id": "24fdfffe40062a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eb8b6e08acb218e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c77ce9de4f492d07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3dcbd5777cb71da7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73f8e92950d9e3ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "3714cc571a61928e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7469746c320523d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "System Design/!! DATAVIEW.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a6fddc88efd6d4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "System Design/!! DATAVIEW.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2da7e4c382d1e9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ea9011fcaf0ecbd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "System Design/!! DATAVIEW.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5eb8b6e08acb218e",
+  "lastOpenFiles": [
+    "Angular/!! REVERSE ENGINEERING",
+    "! IMAGES/Pasted image 20240703101548.png",
+    "System Design/!! DATAVIEW.md",
+    "! INBOX/URL Shortening.md",
+    "! INBOX",
+    "CSS/Frontend Practice - Ableton/Planning Guidelines.md",
+    "CSS/Frontend Practice - Ableton",
+    "System Design/Concepts/Optimistic Concurrency Control.md",
+    "System Design/Concepts/Message Queue.md",
+    "System Design/Concepts/Point-to-Point Communication.md",
+    "System Design/Concepts/Long Polling.md",
+    "System Design/Concepts/Indexing.md",
+    "System Design/Concepts/gRPC.md",
+    "System Design/Concepts/Event Sourcing.md",
+    "System Design/Concepts/Container.md",
+    "! IMAGES/Pasted image 20240702113454.png",
+    "! IMAGES/Pasted image 20240124152735.png",
+    "! IMAGES/Pasted image 20230830162859.png",
+    "! IMAGES/Pasted image 20230508194535.png",
+    "! IMAGES/Pasted image 20240118181011.png",
+    "! IMAGES/1_uT7I4U6f56EobbTlPdBhRw.gif",
+    "Algorithms/1. Data Structures/Heap.md",
+    "! IMAGES",
+    "Algorithms/1. Data Structures/Complete Binary Tree.md",
+    "Algorithms/1. Data Structures/Hash Table.md",
+    "Algorithms/1. Data Structures/Binary Tree.md",
+    "Algorithms/1. Data Structures/Arrays vs Linked Lists.md",
+    "Algorithms/2. Algorithms/Heap Sort.md",
+    "Algorithms/2. Algorithms/Merge Sort.md",
+    "Algorithms/2. Algorithms/Breadth First Search (BFS).md",
+    "Algorithms/2. Algorithms/Backtracking.md",
+    "Interview/Interview Prep.md",
+    "Interview",
+    "System Design/Low-Level Design/Design Patterns/Creational/Singleton/Thread Safety.md",
+    "System Design/Low-Level Design/Design Patterns/Creational/Singleton/3. Pitfalls.md",
+    "System Design/Low-Level Design/Design Patterns/Creational/Singleton/2. Use Cases.md",
+    "System Design/Low-Level Design/Design Patterns/Creational/Singleton/1. Code Example.md",
+    "System Design/Low-Level Design/Design Patterns/Creational/Singleton",
+    "System Design/Low-Level Design/Design Patterns/Creational/Factory Method",
+    "System Design/Concepts/Cloud/Azure/Concepts",
+    "System Design/Low-Level Design/SOLID/Open-Closed Principle",
+    "System Design/Low-Level Design/SOLID/1. Single Responsibility Principal",
+    "System Design/Low-Level Design/Design Patterns/TEMPLATE",
+    "! IMAGES/Pasted image 20240726152600.png",
+    "! IMAGES/Pasted image 20240726151151.png",
+    "! IMAGES/Pasted image 20240726150937.png"
+  ]
+}

@@ -1,0 +1,2 @@
+- Standalone can coexist with NgModules, and that’s especially beneficial for old/legacy apps.
+- An NgModule based approach is still desirable ??? 

@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "1864f3c5aa2c76a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0415e6720fa00720",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fe0dd514e5d047f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Scrimba Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a5ea8639c07ddbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6814bbc5fee737e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59b7433a6ee2d266",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "414e899333bad74c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2157397387ea6dbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3d577113544f29a",
+    "type": "split",
+    "children": [
+      {
+        "id": "74b419763dd19401",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "803e1a2f92b4ce2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "!Scrimba Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26cfce9bb721657b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "!Scrimba Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e8f30025b92a095",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b95f638f04545912",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "!Scrimba Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "flashcards-obsidian:Generate flashcards": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3fe0dd514e5d047f",
+  "lastOpenFiles": [
+    "!IMAGES/Pasted image 20240724195024.png",
+    "!IMAGES/Pasted image 20240724194753.png",
+    "Width/width vs max-width.md",
+    "!Scrimba Notes.md",
+    "!IMAGES/Pasted image 20240709160108.png",
+    "!IMAGES/Pasted image 20240709160016.png",
+    "Margins/! Margin Notes.md",
+    "Padding/! Notes.md",
+    "Flexbox/0. Good Resources.md",
+    "!Best Practices.md",
+    "Flexbox/Use Cases.md",
+    "Width",
+    "!IMAGES/Pasted image 20240627114307.png",
+    "!IMAGES/Pasted image 20240626143210.png",
+    "!IMAGES/Pasted image 20230925171931.png",
+    "!IMAGES/Pasted image 20230915172124.png",
+    "!IMAGES/Pasted image 20230915172048.png",
+    "!IMAGES/Pasted image 20230915130559.png",
+    "!IMAGES/Pasted image 20230915130428.png",
+    "!IMAGES",
+    "padding.md",
+    "Padding",
+    "Margins",
+    "Flexbox"
+  ]
+}

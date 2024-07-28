@@ -1,0 +1,1 @@
+- The Summary should be tailored to the job your applying for

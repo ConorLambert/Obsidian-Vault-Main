@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "7912478b4a73cc91",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a85f39223b23845",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26c43f258b839159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub Actions/Workflows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa6e2fb5ebedfb0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "35c492310f8378d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b021b55150d5610d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d11a3cb011e6c661",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cbf874e35737a046",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ac8b103c715b1fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdfb0e15907de0c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19f734864e59d938",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GitHub Actions/Workflows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac7e16875afd303b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GitHub Actions/Workflows.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f4bd894bf4e4415",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "40f0d29ff6905c3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GitHub Actions/Workflows.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "26c43f258b839159",
+  "lastOpenFiles": [
+    "What is it?.md",
+    "GitHub Actions/Workflows.md",
+    "Continuous Integration.md",
+    "CI Tools.md",
+    "CI Process.md",
+    "GitHub Actions/! NOTES Implementing CI-CD with GitHub Actions.md",
+    "GitHub Actions/Jobs.md",
+    "GitHub Actions/Runners.md",
+    "GitHub Actions",
+    "Welcome.md"
+  ]
+}

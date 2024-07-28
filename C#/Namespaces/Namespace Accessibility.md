@@ -1,0 +1,2 @@
+- Namespaces implicitly have `public` declared accessibility. 
+- No access modifiers are allowed on namespace declarations.

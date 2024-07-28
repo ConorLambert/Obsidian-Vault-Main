@@ -1,0 +1,2 @@
+- Variables of value types directly contain their data
+- Each variable has its own copy of the data

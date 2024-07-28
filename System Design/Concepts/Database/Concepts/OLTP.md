@@ -1,0 +1,4 @@
+- **Online Transaction Processing** is a type of data processing that consists of executing a number of transactions occurring concurrently.
+- Useful for processing orders, update inventory, and manage customer accounts.
+- OLTP is the predominant use case for an RDBMS. 
+	- RDBMS design often emphasizes data normalization for the sake of efficient transaction processing.

@@ -1,0 +1,2 @@
+- How your application reads and writes data. This includes what kind of data it fetches, how often, and in what quantity.
+- Knowing these patterns upfront allows you to design your databases tables in a way that optimises performance and minimizes costs.

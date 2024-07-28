@@ -1,0 +1,1 @@
+- Works almost identical to Module based routes.

@@ -1,0 +1,43 @@
+/* --------------------------------------------   */
+/* Yellow cab table                               */
+/* --------------------------------------------   */
+.yellowCab table {
+  border-collapse: collapse;
+}
+.yellowCab table th {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.yellowCab table thead th {
+  padding: 5px 10px;
+  background-color: #ff9934 !important;
+}
+.yellowCab td,
+.yellowCab th {
+  border: 1px solid #000000;
+  padding: 4px 4px;
+}
+.yellowCab table td {
+  background: #ebddcf;
+  font-family: "Arial Black";
+  font-size: 18px;
+  color: #000000;
+  word-wrap: break-word;
+}
+.yellowCab thead th:hover {
+  background-color: #ffba00 !important;
+}
+.yellowCab tbody tr:nth-of-type(odd) {
+  background-color: #ebddcf;
+}
+.yellowCab tbody tr:nth-of-type(even) {
+  background-color: #ebddcf;
+}
+.yellowCab tbody tr:hover td,
+.yellowCab tbody tr:hover td strong,
+.yellowCab tbody tr:hover td a {
+  background-color: #c24f0a !important;
+  color: yellow;
+}
+/* --------------------------------------------   */

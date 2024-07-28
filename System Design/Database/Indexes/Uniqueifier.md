@@ -1,0 +1,4 @@
+- Clustered Indexes don't have to be unique (although it is recommended they are).
+- Some confusion occurs because the default for a "primary key" (PK) in SQL Server is clustered and a "primary key" must always be unique. 
+- If the clustered index is not a unique index, SQL Server makes any duplicate keys unique by adding an internally generated value called a uniqueifier. 
+- This four-byte value is not visible to users. It is only added when required to make the clustered key unique for use in non-clustered indexes.

@@ -1,0 +1,3 @@
+- A merchant account is a bank account that makes it possible for businesses to accept credit and debit card payments from customers. 
+- The account temporarily holds funds from customers’ card payments and then deposits them into the business’s bank account, so that they can be withdrawn (normally after a few days).
+- A [[payment service provider]] will provide a merchant account in addition to other services as merchant accounts can be cumbersome to setup.

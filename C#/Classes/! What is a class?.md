@@ -1,0 +1,2 @@
+- A class in C# is a type much like an integer or double
+	- A class is a special type known as a [[Reference Type]]

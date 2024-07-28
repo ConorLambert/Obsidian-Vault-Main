@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "1fdaf835f2363941",
+    "type": "split",
+    "children": [
+      {
+        "id": "39c43738e05fdcb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cba33a1f94583375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routing/Methods/navigate().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bb6a87d3a00be93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routing/Component Input Binding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ce7d3e45c7cf6c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa9459de9b181729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8afc159ac7d29f20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c45a39c061faa08f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6df1539bc2b6cc14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aac80951cfcbbd79",
+    "type": "split",
+    "children": [
+      {
+        "id": "42b03cfd8f5084b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6665ac049bf45a90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Routing/Component Input Binding.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "224afbeee20f9911",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Routing/Component Input Binding.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea9c044df0687ca0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3242ad1ca13555ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Routing/Component Input Binding.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1bb6a87d3a00be93",
+  "lastOpenFiles": [
+    "Routing/State Management.md",
+    "Routing/Component Input Binding.md",
+    "Routing/Directives/routerLink.md",
+    "Routing/RouterLink.md",
+    "Routing/Directives",
+    "Routing/Route Parameters.md",
+    "Routing/Methods/navigate().md",
+    "Routing/Methods/navigateByUrl().md",
+    "! IMAGES/Pasted image 20240724162549.png",
+    "! IMAGES/Pasted image 20240724162522.png",
+    "Routing/Methods",
+    "! IMAGES/Pasted image 20240724155936.png",
+    "Routing/Lifecycle Events.md",
+    "Routing/Wildcard Route.md",
+    "Routing/Properties/children.md",
+    "! IMAGES/Pasted image 20240717171458.png",
+    "! IMAGES/Pasted image 20240717171445.png",
+    "Routing/Child Routes.md",
+    "Routing/forRoot() vs forChild().md",
+    "Routing/Properties/loadChildren.md",
+    "Routing/Properties/path.md",
+    "Routing/Properties",
+    "Routing/RouterModule.md",
+    "! IMAGES/Pasted image 20240717170244.png",
+    "Routing/Matching Strategy.md",
+    "Routing/Properties/pathMatch.md",
+    "Routing/Standalone Applications.md",
+    "! IMAGES/Pasted image 20240717165509.png",
+    "! IMAGES/Pasted image 20240716160601.png",
+    "! NOTES (The Complete Guide - Udemy Course).md",
+    "! MISC/Wizard.md",
+    "Routing",
+    "! IMAGES/Pasted image 20240701155206.png",
+    "! NOTES (Angular For Beginners - Angular University).md",
+    "Nx/Why We Need It.md",
+    "Nx",
+    "! MISC",
+    "! IMAGES/Pasted image 20240626131310.png",
+    "SSR (Server Side Rendering)/Angular Universal.md",
+    "SSR (Server Side Rendering)/server.ts.md",
+    "SSR (Server Side Rendering)/When Not to Use.md",
+    "SSR (Server Side Rendering)/Use Cases.md",
+    "SSR (Server Side Rendering)",
+    "! IMAGES"
+  ]
+}

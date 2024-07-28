@@ -1,0 +1,2 @@
+- `ModuleInjector` is a flattening of all the providers and [[entryComponents]] arrays that can be reached by following the `NgModule.imports` recursively (explained further [[Eager Flattening|here]]).
+- However, a lazy loaded module creates it's own `ModuleInjector` that then becomes the child injector of the root injector.

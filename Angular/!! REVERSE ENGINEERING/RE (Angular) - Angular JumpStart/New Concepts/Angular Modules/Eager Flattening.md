@@ -1,0 +1,2 @@
+- Modules do not have a hierarchy or tree structure like components do.
+- The providers of all eagerly loaded modules are merged into the root injector at compile time.

@@ -1,0 +1,4 @@
+- Indexers allow instances of a class or struct to be indexed just like arrays. 
+- The indexed value can be set or retrieved without explicitly specifying a type or instance member.
+- Indexers do not have to be indexed by an integer value; it is up to you how to define the specific look-up mechanism.
+- Applicable on both classes and structs.

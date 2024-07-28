@@ -1,0 +1,1 @@
+- Containerized applications are applications run in an isolated package of code called a [[container]].

@@ -1,0 +1,5 @@
+- Reddit discussions
+	- [Is UML used at all in the industry?](https://www.reddit.com/r/learnprogramming/comments/157jw9e/is_uml_used_at_all_in_the_industry/)
+	- [Are UML diagrams widely used in the industry?](https://www.reddit.com/r/SoftwareEngineering/comments/a31qby/are_uml_diagrams_widely_used_in_the_industry/)
+- Seems like it's not that popular in the industry
+	- General diagrams with flow charts etc are used though

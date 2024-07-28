@@ -1,0 +1,1 @@
+- Relationships between classes represent coupling

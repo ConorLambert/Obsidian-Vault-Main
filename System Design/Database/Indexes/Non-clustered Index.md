@@ -1,0 +1,3 @@
+- Non-clustered indexes have a structure separate from the data rows. 
+- With a non clustered index there is a second list that has pointers to the physical rows. 
+- You can have many non clustered indices.

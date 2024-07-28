@@ -1,0 +1,1 @@
+- An NgModule is a container and a way to organise related code such as components, directives, services, and pipes into a cohesive block of functionality.

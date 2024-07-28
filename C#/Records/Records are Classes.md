@@ -1,0 +1,2 @@
+- C# records, by default, are [[! What is a class?|classes]] under the hood. 
+- The compiler handles the tedious bits of implementing [[IEquatable<T>]] and overriding the necessary object members (see [[Compiler Generation]]).

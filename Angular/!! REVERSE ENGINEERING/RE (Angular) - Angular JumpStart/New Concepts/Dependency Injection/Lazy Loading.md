@@ -1,0 +1,3 @@
+- Modules do not have a hierarchy or tree structure like components do.
+- The providers of all non-lazy loaded modules are merged into the root injector at compile time. 
+- However, a lazy loaded module creates it's own module injector that then becomes the child of the root injector.

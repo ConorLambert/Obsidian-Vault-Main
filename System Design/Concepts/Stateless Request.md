@@ -1,0 +1,2 @@
+- A stateless process does not retain information about the user's previous interactions.
+- An example of a stateless transaction would be doing a search online to answer a question you’ve thought of. You type your question into a search engine and hit enter. If your transaction is interrupted or closed accidentally, you just start a new one. 

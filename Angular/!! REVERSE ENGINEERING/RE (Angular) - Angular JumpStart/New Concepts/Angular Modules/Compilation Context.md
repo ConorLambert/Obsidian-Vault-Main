@@ -1,0 +1,3 @@
+- Compilation context in Angular refers to the process of converting an Angular template into executable JavaScript code. It's a step in the Angular application's bootstrapping process that prepares the component templates for rendering by binding expressions and resolving dependencies. It involves three main tasks: template parsing, creating metadata, and generating a factory function.
+-  Prior to Angular 9 one of the most important jobs of NgModules was the handling of the **Compilation Context**.
+- *Angular 9+ has the **Ivy Compiler** that provides Components with its own compilation context therefore application works without modules at runtime.*

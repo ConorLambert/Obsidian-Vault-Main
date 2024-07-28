@@ -1,0 +1,2 @@
+- Fields typically store the data that must be accessible to more than one type method and must be stored for longer than the lifetime of any single method. 
+- Generally, you should use fields only for variables that have private or protected accessibility. Data that your type exposes to client code should be provided through methods, [[! What is a Property|properties]], and [[! What is an Indexer|indexes]]. 

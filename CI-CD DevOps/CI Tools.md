@@ -1,0 +1,15 @@
+- General Tools
+	- GitHub Actions
+	- CircleCI
+	- Travis CI
+	- Jenkins
+	- Buildkite
+- There are also tools for different stages of the [[CI Process]] 
+	- Build
+		- Bazel
+		- Webpack
+		- Gradle
+	- Testing
+		- Jest
+		- Playwright
+		- Cypress

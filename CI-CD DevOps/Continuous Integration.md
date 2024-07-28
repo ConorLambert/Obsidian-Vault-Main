@@ -1,0 +1,2 @@
+- The practice of using automation to enable teams to merge their code changes into the shared repository *early and often*.
+- Each commit triggers an automated workflow on a CI server that runs a serious of tasks to make sure the commit is safe to merge into the main branch.

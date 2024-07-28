@@ -1,0 +1,1 @@
+the `init` keyword defines an _accessor_ method in a property or indexer. An init-only setter assigns a value to the property or the indexer element **only** during object construction. This enforces immutability, so that once the object is initialized, it can't be changed again.

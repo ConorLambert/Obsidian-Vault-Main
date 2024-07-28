@@ -1,0 +1,2 @@
+- Is more associated with a [[stream]] but it can also be used as a [[message queue]].
+- Is apparently the more popular streaming option

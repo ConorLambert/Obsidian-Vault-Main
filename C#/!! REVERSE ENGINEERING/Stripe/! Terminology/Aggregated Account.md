@@ -1,0 +1,3 @@
+-  An Aggregated Account is a type of [[merchant account]] thats uses a single merchant account to provide credit card processing for multiple companies.
+- PayPal and Stripe are some examples.
+- The other type of merchant account is a dedicated account that is provisioned specifically for your business.

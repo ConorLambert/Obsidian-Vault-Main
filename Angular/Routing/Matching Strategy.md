@@ -1,0 +1,2 @@
+- **First match wins** matching strategy
+- More specific routes should appear before the less specific routes.

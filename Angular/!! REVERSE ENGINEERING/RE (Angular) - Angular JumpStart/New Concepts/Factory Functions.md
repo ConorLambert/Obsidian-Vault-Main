@@ -1,0 +1,2 @@
+- In JavaScript, a factory function is a function that returns an object. 
+- It's called a factory function because it creates and returns a new object each time it's called.

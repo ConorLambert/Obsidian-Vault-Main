@@ -1,0 +1,1 @@
+- `log`$_1$$_0$ `100` is like asking, “How many 10s do we multiply together to get 100?”

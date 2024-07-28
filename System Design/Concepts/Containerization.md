@@ -1,0 +1,2 @@
+- Containerization is a software deployment process that bundles an application’s code with all the files and libraries it needs to run on any infrastructure. 
+- This is bundled into a unit of software called a [[container]].

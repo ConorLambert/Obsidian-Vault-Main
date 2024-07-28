@@ -1,0 +1,3 @@
+- A payment processor is what businesses use to manage the logistics of accepting card payments. 
+- It shuttles card data from wherever customers tap, swipe or enter their card details to the payment networks — such as Visa, Mastercard, American Express and Discover — and banks involved in the transaction.
+- [[Stripe Payments]] is an example of a payment processor.

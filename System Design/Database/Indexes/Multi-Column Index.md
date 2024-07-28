@@ -1,0 +1,4 @@
+- Check out this [video](https://www.youtube.com/watch?v=fW-y-r7CgNI). 
+	- Very detailed
+	- Uses Postgres 
+- ==Order of columns declared in CREATE INDEX is important==

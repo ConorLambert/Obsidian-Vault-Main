@@ -1,0 +1,4 @@
+- A data lake stores an organisations raw and processed (unstructured and structured) data at both large and small scales.
+- Unlike a [[Data Warehouse]] or database, a data lake captures anything the organisation deems valuable for future use. 
+- A data lake can store literally any type of data – images, videos, PDFs, anything!
+- With the advent of machine learning, more and more companies are trying to build data lakes.

@@ -1,0 +1,12 @@
+- API versioning to allow for better maintainability:
+	`public override string BasePath => "/v1/checkout/sessions";`
+- OBSERVATION: It's mostly classes. Rarely see Business Logic.
+- OBSERVATION: Could the `Entities` folder match the tables in the database?
+- OBSERVATION: Business Logic seems to mainly be in `Infrastructure` folder and `Services/_base/Service.cs`.
+- NAMING: 
+	- Classes used by `SessionService` are prefixed with the word **Session**:
+			- **Session**CreateOptions
+			- **Session**LineItemOptions
+			- **Session**LineItemDataOptions
+	- Classes that are used for the purpose of providing options to a service are suffixed with the word **Options** (see above)
+	- 

@@ -1,0 +1,3 @@
+- Fields are initialized immediately *before* the constructor for the object instance is called. 
+- If the constructor assigns the value of a field, it will overwrite any value given during field declaration.
+- A field initializer cannot refer to other instance fields.

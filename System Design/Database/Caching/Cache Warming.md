@@ -1,0 +1,1 @@
+- Cache warming is a concept which is used to optimize the performance of a website or web application by preloading the cache with frequently accessed content. By doing this, the content is readily available in the cache, reducing the time it takes to serve it to the user. 

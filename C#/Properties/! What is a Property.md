@@ -1,0 +1,3 @@
+- A property is a [[Class Members |class member]] that provides a flexible mechanism to read, write, or compute the value of a private field
+- Properties enable a class to expose a public way of getting and setting values, while hiding implementation or verification code.
+- Properties provides a more short-hand approach to manually creating *getXYZ* and *setXYZ* methods to retrieve and wright to a field respectively.

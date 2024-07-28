@@ -1,0 +1,1 @@
+- The pointer from an index row in a [[non-clustered index]] to a data row is called a row locator.

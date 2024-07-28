@@ -1,0 +1,2 @@
+- Really good explanation of this [here](https://courses.dometrain.com/courses/take/getting-started-solution-architecture/lessons/54121967-functional-vs-non-functional-requirements)
+- Some good further explanation [here](https://courses.dometrain.com/courses/take/getting-started-solution-architecture/lessons/54121968-gathering-functional-requirements) along with some questions to ask yourself which in creating NFR.

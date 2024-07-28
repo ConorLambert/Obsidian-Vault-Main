@@ -1,0 +1,1 @@
+- Total space used by the algorithm includes both the space required for the input and the [[auxiliary space]].

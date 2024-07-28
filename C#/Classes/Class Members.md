@@ -1,0 +1,3 @@
+- Class members are **fields**, **properties**, **methods**, **events**, and **indexers** that are declared inside a class or struct. 
+- Class members are also known as just *members*. 
+- Class members are the data and functions associated with those classes that are accessible using the dot or period operator.

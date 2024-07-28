@@ -1,0 +1,2 @@
+- Records created using the `positional` style are immutable
+- This is done slightly different for [[Record Struct#Note On Positional Records|record structs]].

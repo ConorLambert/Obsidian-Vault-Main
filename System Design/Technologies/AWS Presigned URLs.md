@@ -1,0 +1,5 @@
+[Source](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html)
+
+- By default, all [[AWS S3]] objects are private, only the object owner has permission to access them. However, the object owner may share objects with others by creating a presigned URL. 
+- A presigned URL uses security credentials to grant time-limited permission to download objects. The URL can be entered in a browser or used by a program to download the object. The credentials used by the presigned URL are those of the AWS user who generated the URL.
+- Presigned URLs can also be used in [[AWS Blob Storage]] to allow a user to upload a file from their own device to AWS. Check Dropbox system design interview solution [here](https://www.hellointerview.com/learn/system-design/answer-keys/dropbox) for more info.

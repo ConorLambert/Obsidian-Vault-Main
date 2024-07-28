@@ -1,0 +1,2 @@
+- This is the extra space or temporary space used by an algorithm during its execution. For example, space used for storing temporary variables or stack space in recursive calls.
+- *It does not include space taken up by the input.*

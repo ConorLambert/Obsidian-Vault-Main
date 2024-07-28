@@ -1,0 +1,1 @@
+- https://www.scylladb.com/glossary/wide-column-database/

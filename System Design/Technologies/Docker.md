@@ -1,0 +1,2 @@
+- Docker is a platform designed to help developers build, share, and run [[container]] applications. 
+- The software that hosts the container is called **Docker Engine**.

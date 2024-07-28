@@ -1,0 +1,3 @@
+- Stripe Payments is a powerful [[payment processor]] for online sales. 
+- It can accept dozens of payment methods and more than 135 currencies. 
+- Its open API and advanced developer tools allow you to create a checkout flow that feels custom, provided you know how to use the tools and implement code. 

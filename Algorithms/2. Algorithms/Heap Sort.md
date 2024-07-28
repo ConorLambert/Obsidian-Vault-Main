@@ -1,0 +1,20 @@
+### Explained
+- ???
+
+### Collection Conditions
+- ???
+
+### Time Complexity
+- ???
+
+### Space Complexity
+- ???
+
+### Use Cases
+- ???
+
+### Comments
+- ???
+
+### Code Example
+- ???

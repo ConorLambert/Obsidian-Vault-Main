@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "fa9dc4c2eceef72a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a302c3606e198736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "800cbf3e958cc44e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Services/4. Shared Responsibility Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "065f4114adc7a2f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Models/2. Public.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3c18bc90f8e6e64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Models/1. Private.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9fa55b436a8aa49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Models/3. Hybrid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfd5a85ea9ec1b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Models/1. Private.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8fc0e9df94a68c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c147ac9363ce1599",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "992a40a66528ca06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f7c35afa67e1a48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2e02b80a105cefa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24872bbb344ec431",
+    "type": "split",
+    "children": [
+      {
+        "id": "165053feab7dd309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82c7af80256cc88b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cloud Models/1. Private.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ed3eba4955835a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cloud Models/1. Private.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ff97203fc5c0ec4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "932723312fc3ab36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cloud Models/1. Private.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "dfd5a85ea9ec1b7b",
+  "lastOpenFiles": [
+    "Cloud Models/3. Hybrid.md",
+    "Cloud Models/4. Multi-Cloud.md",
+    "Cloud Services/5. Other Services.md",
+    "Cloud Services/4. Shared Responsibility Model.md",
+    "Cloud Models/2. Public.md",
+    "Cloud Models/1. Private.md",
+    "Cloud Models/! What are Cloud Models.md",
+    "Cloud Models/Cloud Models (Public, Private, Hybrid).md",
+    "article.md",
+    "Cloud Concepts/Shared Responsibility.md",
+    "Cloud Services/1. SaaS.md",
+    "Cloud Services/2. PaaS.md",
+    "Cloud Services/3. IaaS.md",
+    "Cloud Concepts/SaaS, PaaS and IaaS.md",
+    "Cloud Services",
+    "Scaling/Horizontal Scaling.md",
+    "Scaling/Vertical Scaling.md",
+    "! Good Resources/Let's Learn .NET - Azure.md",
+    "Scaling",
+    "Managing the Cloud/Tools.md",
+    "! Good Resources",
+    "Managing the Cloud/Resources.md",
+    "Managing the Cloud/Command Line.md",
+    "Managing the Cloud/Monitoring.md",
+    "Managing the Cloud/Web Portal.md",
+    "Managing the Cloud/APIs.md",
+    "Managing the Cloud/Powershell.md",
+    "Security & Governance",
+    "Managing the Cloud",
+    "Terminology/YouTube Video.md",
+    "Cloud Models",
+    "Pasted image 20230427220107.png",
+    "Untitled.canvas"
+  ]
+}

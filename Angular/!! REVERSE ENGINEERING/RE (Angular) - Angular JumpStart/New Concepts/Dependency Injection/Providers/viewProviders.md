@@ -1,0 +1,3 @@
+- `viewProviders` are not available to projected content.
+- `providers` allows *all* children (projected content and child components) to use the provider. 
+- The purpose of `viewProviders` is to prevent projected content from messing with your services, which is especially useful in external libraries (think of Angular Material).

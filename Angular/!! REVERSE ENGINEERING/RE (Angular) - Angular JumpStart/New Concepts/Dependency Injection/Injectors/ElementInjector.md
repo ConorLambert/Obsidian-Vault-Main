@@ -1,0 +1,4 @@
+- Specialised injector that inherits from the root [[Injector]] class.
+- Designed to [[Provider|provide]] dependencies to components and directives within a specific DOM element.
+- An `ElementInjector` is empty by default unless you configure it in the `providers` property on `@Directive()` or `@Component()`.
+- Components and directives on the same element share an injector.

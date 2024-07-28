@@ -1,0 +1,3 @@
+- Full-text search involves reviewing large numbers of documents and vast amounts of text.
+- A service commonly provided by a [[Search Engine Database]]
+- Web search services often use full-text search to retrieve relevant results from the internet — be it web page content, online .PDFs, and more. 

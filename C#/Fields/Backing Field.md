@@ -1,0 +1,1 @@
+- A private field that stores the data exposed by a public property is called a _backing store_ or _backing field_.

@@ -1,0 +1,2 @@
+- To "bootstrap" an application typically means to set up the initial configuration and dependencies required for the application to run.
+- In Angular, the bootstrapping process sets up the initial state of the application by creating the root component and injecting any necessary services. It also imports any additional modules that the application requires and exports the components, directives, and pipes that should be available to other parts of the application.

@@ -1,0 +1,4 @@
+- Variables of reference types store references to their data
+- A reference to the value is stored in the allocated memory as opposed to the value itself (which is what a [[Value Type]] does).
+- Reference types are needed when dealing with complex objects that contain more then one field (it would be impossible to store it as a value type)
+- A declaration of a reference type has an initial value of **null** unless you explicitly initialize it using the new keyword.

@@ -1,0 +1,2 @@
+- Area of the Heap that allocates objects greater than 85,000 bytes.
+- LOH does not perform Shrinking because the objects are so large that moving them around is too costly to be beneficial.

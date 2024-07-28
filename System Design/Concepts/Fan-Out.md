@@ -1,0 +1,2 @@
+- Short YouTube [video](https://www.youtube.com/watch?v=zSncRUcucEU) overview
+- Medium [article](https://medium.com/@gitaeklee/system-design-fan-out-with-twitter-d071a6799893) illustrating how Twitter uses this pattern.

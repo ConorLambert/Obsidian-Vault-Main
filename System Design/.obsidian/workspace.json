@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "df6e9b35ed21d739",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eeea9e2fe611cfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c85e3e2ed996dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Low-Level Design/Design Patterns/Creational/Singleton/1. Code Example.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4880e5030fabc304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!! DATAVIEW.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83a35f09416cc459",
+    "type": "split",
+    "children": [
+      {
+        "id": "514988c960701728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c1cfde79eab676",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c5e75c5649371c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4fb170d656e22ac1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5
+  },
+  "right": {
+    "id": "623e937c6258da40",
+    "type": "split",
+    "children": [
+      {
+        "id": "157cc1f7cbce0c73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4adbeea252bd129",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "!! DATAVIEW.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d34d493d6b85fa99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "!! DATAVIEW.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8471d09ae1255fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b67f9d65878c2a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "!! DATAVIEW.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e1c1cfde79eab676",
+  "lastOpenFiles": [
+    "Low-Level Design/Design Patterns/Creational/Singleton/1. Code Example.md",
+    "!! DATAVIEW.md",
+    "Technologies/AWS S3.md",
+    "Low-Level Design/OO Design/! Discussions.md",
+    "Technologies/Kubernetes.md",
+    "Low-Level Design/OO Design",
+    "Concepts/Container.md",
+    "Concepts/Containerized Applications.md",
+    "Technologies/Docker.md",
+    "! IMAGES/Pasted image 20240726152600.png",
+    "Technologies/Elasticsearch.md",
+    "Concepts/Containerization.md",
+    "Technologies/AWS EC2.md",
+    "Technologies/AWS ECS.md",
+    "! IMAGES/Pasted image 20240726151151.png",
+    "ECS.md",
+    "! IMAGES/Pasted image 20240726150937.png",
+    "containerized application.md",
+    "Concepts/Stream vs Message Broker.md",
+    "Concepts/Stream.md",
+    "Concepts/Message Broker.md",
+    "Concepts/Message Queue.md",
+    "Concepts/Long Polling.md",
+    "Technologies/Comparisons/Apache Kafka vs RabbitMQ.md",
+    "! IMAGES/Pasted image 20240726140944.png",
+    "Technologies/Comparisons/Apache Kafka vs AWS Kinesis.md",
+    "Technologies/Apache Kafka.md",
+    "Technologies/RabbitMQ.md",
+    "Technologies/Comparisons",
+    "Concepts/Search Optimised Database.md",
+    "Concepts/Queue.md",
+    "Concepts/Websockets.md",
+    "Estimations",
+    "Low-Level Design/SOLID/Open-Closed Principle",
+    "Database/Designing",
+    "Documentation",
+    "Documentation/UML",
+    "! IMAGES/Pasted image 20240723152422.png",
+    "! IMAGES/Pasted image 20240723152350.png",
+    "Concepts/Cloud/Concepts",
+    "Concepts/Database/Concepts",
+    "Concepts/Cloud/Azure/Concepts",
+    "! IMAGES/Pasted image 20240719150205.png",
+    "! IMAGES/Pasted image 20240719150149.png",
+    "! IMAGES/Pasted image 20240718144648.png",
+    "! IMAGES/Pasted image 20240718144635.png"
+  ]
+}

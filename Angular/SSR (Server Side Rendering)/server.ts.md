@@ -1,0 +1,4 @@
+- The `server.ts` file serves as the entry point for server-side rendering in an Angular application. 
+- It is responsible for configuring and starting the server-side rendering process.
+- Medium [article](https://medium.com/@navneetsingh_95791/angular-16-angular-universal-understanding-the-server-ts-file-190f6cf3d584) breaking down each line of code.
+- The SSR process is performed by [[Angular Universal]].

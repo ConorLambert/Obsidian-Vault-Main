@@ -1,0 +1,2 @@
+- Really good answer [here](https://www.reddit.com/r/SoftwareEngineering/comments/a31qby/comment/eb2xgcp/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) on Reddit from a very experienced person
+	- The question is what about a new dev who comes along.

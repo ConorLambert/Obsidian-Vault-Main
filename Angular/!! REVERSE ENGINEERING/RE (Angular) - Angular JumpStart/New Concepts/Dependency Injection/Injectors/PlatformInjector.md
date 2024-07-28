@@ -1,0 +1,9 @@
+- Specialised sub-type of [[ModuleInjector]] (if module based) or [[EnvironmentInjector]] (if [[Standalone Application]]).
+- Created by the `platformBrowserDynamic()`(if module based) or `bootstrapApplication()` if [[Standalone Application]]. 
+- Platform injector usually includes built-in providers but we can provide our own when calling either of the above methods.
+- Parent injector to the [[Root Injector]]
+- Child Injector of the [[NullInjector]]
+- Gives the possibility to share platform configurations between multiple applications.
+- Can be used in micro-frontends to share state between the different Angular apps
+- Contains a list of tokens that inform Angular about the platform the application is running on, such as browser, server, web worker, etc.
+- This is where the **InjectionToken** `DOCUMENT` is created.

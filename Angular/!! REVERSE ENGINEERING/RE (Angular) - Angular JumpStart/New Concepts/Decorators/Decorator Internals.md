@@ -1,0 +1,2 @@
+- A decorator is an expression that evaluates to a function that takes the target, name, and decorator descriptor as arguments.
+- Medium [article](https://medium.com/angular-in-depth/implementing-custom-component-decorator-in-angular-4d037d5a3f0d) that details further how decorators work by creating a custom Component decorator.

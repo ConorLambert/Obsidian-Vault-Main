@@ -1,0 +1,2 @@
+- A virtual NgModule is created around each standalone component. 
+- That’s why we import the standalone component into the `imports` array and not the `declarations` array of an NgModule.
