@@ -1,10 +1,12 @@
-By default, a record is a [[reference type]]. 
-You can define a `record struct` to create a record that is a [[value type]].
+### Overview
+- You can define a `record struct` to create a record that is a [[value type]].
+
+### Purpose of `record struct`
+- It adds additional functionality at compile-time that can be useful when using a struct.
+- Really good answer [here](https://stackoverflow.com/questions/74892321/what-is-the-purpose-of-a-record-struct)
 
 ### Note On Positional Records
-- Positional records on a struct doesn’t make the record immutable as a record class.
-- ==Because it’s a struct you have to set the **readonly** keyword to make the record struct immutable:==
-
+- ==Because it’s a struct you have to set the **readonly** keyword to make the `record struct` immutable:==
 ```csharp
 public readonly record struct Product(string Name, int CategoryId);
 ```

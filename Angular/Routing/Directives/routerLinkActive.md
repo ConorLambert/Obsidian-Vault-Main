@@ -1,0 +1,1 @@
+- Used to style an element who's [[routerLink]] directive matches the currently active route.

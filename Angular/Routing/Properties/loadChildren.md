@@ -1,0 +1,2 @@
+- Routes configured via the `loadChildren` property do not use the full absolute path. 
+	- They only declare the relative child path segments. 

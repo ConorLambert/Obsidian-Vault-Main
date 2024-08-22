@@ -1,2 +1,3 @@
-- C# records, by default, are [[! What is a class?|classes]] under the hood. 
+- The following does not apply to [[record struct]].
+- By default, records are [[! What is a class?|classes]] under the hood. 
 - The compiler handles the tedious bits of implementing [[IEquatable<T>]] and overriding the necessary object members (see [[Compiler Generation]]).

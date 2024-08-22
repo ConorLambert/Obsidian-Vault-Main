@@ -1,5 +1,5 @@
 ### Summary
-- Full Stack Developer with 6 years of experience in designing, developing, and maintaining web and ??? applications for clients in the finance sector.
+- Full Stack Developer with 6 years of experience in designing, developing, and maintaining web and ??? applications for clients in the financial sector.
 
 ### Experience
 ###### Athora Ireland (May 2017 - November 2023)
@@ -7,9 +7,11 @@ Mid Level Software Engineer
 - Led the design and implementation of a large scale re-write of the entire stack to enhance application efficiency and usability. 
 - Developed and maintained an actuarial modelling system written in Python.
 - Central role in the migration of on-premise infrastructure to AWS cloud.
-- Performed research and analysis on how to best improve business processes between different parts of the company ???
+- Performed research and analysis on how to best improve business processes between different sections of the company ???
 - Mentored junior and mid level developers, introducing Angular and more complex parts of .NET.
 - Conducted and documented requirements analysis and research sessions with multiple stakeholders and users of the system. 
+- *{{Something about CI/CD}}*
+	- How I migrated from manual batch script approach to using Azure.
 - Prototyped UIs using a number of different tools for customer feedback.
 
 ### Education
@@ -25,4 +27,4 @@ BSc in Computer Science
 ###### Databases and ORM
 - SQL Server, MySQL, PostgreSQL, Entity Framework
 ###### Tools and Platforms
-- AWS (S3, Lamda), Azure (???), Git, Webpack, JIRA, Docker, Sketch
+- AWS (S3, Lamda), Azure (???), Git, Webpack, JIRA, Docker, Sketch, GitHub Actions

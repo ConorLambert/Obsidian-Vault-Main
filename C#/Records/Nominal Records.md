@@ -1,5 +1,5 @@
-- Created using the [[Object Initializer]] synatax
-- Using nominal creation, then, _we can say that records are not immutable by default_.
+## Syntax
+- Created using the following syntax.
 
 ```csharp
 public record Person
@@ -8,6 +8,9 @@ public record Person
     public string LastName { get; set; }
 }
 ```
+
+## Not Immutable
+- ==Using nominal creation, the records are *not* immutable by default.==
 
 ```csharp
 static void Main(string[] args)
@@ -27,8 +30,8 @@ static void Main(string[] args)
 }
 ```
 
-- As stated, the properties are not immutable *by default*
-- We can make the properties immutable by using the [[init keyword]]:
+##  `init` keyword
+- We can make the properties immutable by using the [[C#/Properties/init keyword]]:
 
 ```csharp
 public record Person
@@ -38,4 +41,5 @@ public record Person
 }
 ```
 
-- This approach may be required if we want to avail of the [[Equality Comparisons]] aspects of a Record but dont want every property to be immutable.
+## Use Cases
+- This approach may be required if we want to avail of the [[Equality Comparisons]] aspects of a Record but don't want every property to be immutable.

@@ -15,4 +15,10 @@
 		- `path: ''`
 	- Multiple path segments
 		- `path: 'shop/pie'`
+	- [[Wildcard Route]]
+		- `path: '**'`
 - No leading or trailing slashes (`/`).
+
+#### Empty path (path: '')
+- The empty path is a bit of a special case because it can match any segment *without "consuming" it* (so its children would have to match that segment again).```
+- Discussed [here](https://stackoverflow.com/questions/42992212/in-angular-what-is-pathmatch-full-and-what-effect-does-it-have/62476799#62476799) with a good example under the section titled **Empty path (path: '')**

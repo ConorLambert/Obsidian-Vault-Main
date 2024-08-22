@@ -1,0 +1,1 @@
+- Used for the [[Angular/Routing/Directives/routerLinkActive|routerLinkActive]] directive

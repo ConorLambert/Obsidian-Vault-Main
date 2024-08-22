@@ -1,0 +1,3 @@
+- If you have a complex system with multiple services it can save you a lot of time
+- [Demystify cloud-native development with .NET Aspire | BRK181](https://www.youtube.com/watch?v=jVILDZtuUrI)
+	- Github [project](https://github.com/dotnet/eShop) used for video above

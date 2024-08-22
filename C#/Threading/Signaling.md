@@ -1,0 +1,1 @@
+- Signaling is when one thread waits until it receives notification from another.

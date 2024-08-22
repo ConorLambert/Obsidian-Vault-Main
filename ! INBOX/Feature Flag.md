@@ -1,0 +1,2 @@
+- A software development technique that turns certain functionality on and off during runtime, without deploying new code.
+- Third party tools can enhance this technique as explained [here](https://www.youtube.com/watch?v=eBT9bCRIHWQ)

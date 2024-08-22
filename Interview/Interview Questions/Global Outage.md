@@ -1,0 +1,1 @@
+https://newsletter.pragmaticengineer.com/p/the-biggest-ever-global-outage-lessons

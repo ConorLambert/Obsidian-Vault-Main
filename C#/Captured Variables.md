@@ -1,0 +1,1 @@
+- When you declare an anonymous function, it has access to the local variables from the containing method, these are called **captured variables**.

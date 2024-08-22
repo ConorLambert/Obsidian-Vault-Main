@@ -1,4 +1,6 @@
-It is sometimes necessary to compare two values for equality. In some cases, you are testing for _value equality_, also known as _equivalence_, which means that the values that are contained by the two variables are equal. In other cases, you have to determine whether two variables refer to the same underlying object in memory. This type of equality is called _reference equality_, or _identity_.
+## Overview
+- It is sometimes necessary to compare two values for equality. In some cases, you are testing for _value equality_, also known as _equivalence_, which means that the values that are contained by the two variables are equal. 
+- In other cases, you have to determine whether two variables refer to the same underlying object in memory. This type of equality is called _reference equality_, or _identity_.
 
 ## Reference Equality
 - Two object references refer to the same underlying object.

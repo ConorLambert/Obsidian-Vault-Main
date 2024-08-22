@@ -1,1 +1,2 @@
+- Performed in it's entirety or not at all.
 - An atomic operation is an operation that will always be executed without any other process being able to read or change state that is read or changed during the operation. It is effectively executed as a single step.

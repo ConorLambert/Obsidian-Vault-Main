@@ -1,0 +1,2 @@
+- A hot code path is defined as a code path that is frequently called and where much of the execution time occurs. 
+- Hot code paths typically limit app scale-out and performance.

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6f535865ad92e453",
+        "id": "c85a4552bfc2d831",
         "type": "tabs",
         "children": [
           {
-            "id": "250ea392af102e18",
+            "id": "70d9861d273e5a9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!! DATAVIEW.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 437.5
   },
   "right": {
     "id": "73f8e92950d9e3ca",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!! DATAVIEW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!! DATAVIEW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "!! DATAVIEW.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,53 +138,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "250ea392af102e18",
+  "active": "70d9861d273e5a9b",
   "lastOpenFiles": [
-    "C#/Weak Reference.md",
-    "C#/Types/WeakReference/0. Explained.md",
-    "C#/Expression-Bodied.md",
-    "!! DATAVIEW.md",
-    "CI-CD DevOps/CI Tools.md",
-    "CI-CD DevOps/What is it?.md",
-    "C#/Types/WeakReference/3. Use Cases.md",
-    "C.md",
-    "System Design/! NOTES (Dometrain Solutions Architect).md",
-    "System Design/! Discussions (Reddit, YT).md",
-    "Angular/!! REVERSE ENGINEERING",
+    "Interview/Interview Questions/Interview Questions - dotnet/12. Practice.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/0. Sources.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/1. Dotnet Framework.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/2. Dotnet Core Web API.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/4. LINQ.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/3. EF Core.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/5. Collections.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/6. Types.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/7. Asynchronous Programming.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/8. Internals.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/9. OOP.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/11. Troubleshooting.md",
+    "! INBOX/Hot Code Path.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/Middleware.md",
+    "Interview/Interview Questions/Keywords.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/Common Interfaces.md",
+    "Dotnet/Middleware/Middleware.md",
+    "Dotnet/Filters/Filters.md",
+    "Dotnet/Filters",
+    "! IMAGES/Pasted image 20240822143723.png",
+    "Dotnet/Middleware",
+    "Software Engineering/! YouTube.md",
+    "Algorithms/1. Data Structures/Red-Black Tree.md",
+    "C#/Records/with Expression.md",
+    "C#/Records/Records vs Classes vs Structs.md",
+    "Algorithms/2. Algorithms/Binary Search.md",
+    "! IMAGES/Pasted image 20240821163709.png",
+    "! IMAGES/Pasted image 20240821163507.png",
+    "Algorithms/1. Data Structures/Binary Search Tree.md",
+    "Algorithms/1. Data Structures/Complete Binary Tree.md",
+    "C#/Collections/Lists/1. Use Cases.md",
+    "Interview/Interview Questions/Interview Questions - dotnet",
+    "C#/Reflection",
+    "C#/Threading",
+    "Dotnet/CLR/Untitled",
+    "Dotnet/CLR",
+    "Angular/Forms",
+    "Software Engineering",
+    "Dotnet/Tooling/Aspire",
+    "! IMAGES/Pasted image 20240809152606.png",
     "! IMAGES/Pasted image 20240703101548.png",
-    "! INBOX/URL Shortening.md",
-    "! INBOX",
-    "CSS/Frontend Practice - Ableton/Planning Guidelines.md",
-    "CSS/Frontend Practice - Ableton",
-    "System Design/Concepts/Optimistic Concurrency Control.md",
-    "System Design/Concepts/Message Queue.md",
-    "System Design/Concepts/Point-to-Point Communication.md",
-    "System Design/Concepts/Long Polling.md",
-    "System Design/Concepts/Indexing.md",
-    "System Design/Concepts/gRPC.md",
-    "System Design/Concepts/Event Sourcing.md",
-    "System Design/Concepts/Container.md",
     "! IMAGES/Pasted image 20240702113454.png",
     "! IMAGES/Pasted image 20240124152735.png",
     "! IMAGES/Pasted image 20230830162859.png",
     "! IMAGES/Pasted image 20230508194535.png",
-    "! IMAGES/Pasted image 20240118181011.png",
-    "! IMAGES/1_uT7I4U6f56EobbTlPdBhRw.gif",
-    "Algorithms/1. Data Structures/Heap.md",
-    "! IMAGES",
-    "Algorithms/1. Data Structures/Complete Binary Tree.md",
-    "Algorithms/1. Data Structures/Hash Table.md",
-    "Algorithms/1. Data Structures/Binary Tree.md",
-    "Algorithms/1. Data Structures/Arrays vs Linked Lists.md",
-    "Algorithms/2. Algorithms/Heap Sort.md",
-    "Interview",
-    "System Design/Low-Level Design/Design Patterns/Creational/Singleton",
-    "System Design/Low-Level Design/Design Patterns/Creational/Factory Method",
-    "System Design/Concepts/Cloud/Azure/Concepts",
-    "System Design/Low-Level Design/SOLID/Open-Closed Principle",
-    "System Design/Low-Level Design/SOLID/1. Single Responsibility Principal",
-    "! IMAGES/Pasted image 20240726152600.png",
-    "! IMAGES/Pasted image 20240726151151.png",
-    "! IMAGES/Pasted image 20240726150937.png"
+    "! IMAGES/Pasted image 20240118181011.png"
   ]
 }

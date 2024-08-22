@@ -1,0 +1,2 @@
+- Use constant and enum tokens to define routes
+	- Much easier to debug.

@@ -1,0 +1,3 @@
+- Find properties that have been marked with attributes.
+	- Unit Testing frameworks use them to identify test classes and methods marked with the necessary attributes.
+- Other use cases [here](https://stackoverflow.com/questions/1458256/why-is-the-use-of-reflection-in-net-recommended)

@@ -1,5 +1,7 @@
-### Path Segment Prefixing
+### Overview
+- Mainly used for the [[Angular/Routing/Directives/routerLink|routerLink]] directive
 
+### Path Segment Prefixing
 ![[Pasted image 20240724155936.png|500]]
 
 ### Best Practices

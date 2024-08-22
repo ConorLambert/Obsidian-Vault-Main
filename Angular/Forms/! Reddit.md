@@ -1,0 +1,37 @@
+## Template vs Reactive
+##### Sources
+- [Reactive vs Template forms](https://www.reddit.com/r/angular/comments/jx7ckc/reactive_vs_template_forms/)
+- [Any advocates for template-driven forms?](https://www.reddit.com/r/angular/comments/b668d7/any_advocates_for_templatedriven_forms/)
+- [Do you always use Reactive Forms in angular?](https://www.reddit.com/r/angular/comments/11doxsp/do_you_always_use_reactive_forms_in_angular/)
+- [As of 2023-2024, are you using template driven forms (ngModel) or Reactive Forms (FormGroup) when crafting data entry UI?](https://www.reddit.com/r/Angular2/comments/1acx2mp/as_of_20232024_are_you_using_template_driven/)
+	- This is a strong advocate for TDF and is more recent
+	- This thread really shits on RDF and shows how everything can be done in TDF
+##### Conclusions
+- Seems to be mostly Reactive forms but a lot of people prefer TDF and have switched to it over last few years.
+- Other people are saying it really depends on the situation
+- TDF has a new library called `Vest` which helps with async validation.
+- Use cases for RDF:
+	- Reactive is for forms with a larger number of inputs.
+	- Dynamic forms where fields are added and taken away dynamically.
+- Benefits of RDF
+	- Keeps logic inside component code instead of template
+	- Reactive forms has the ability for typed forms (since version 14) which makes it easier.
+		- Although some say it's useless
+	- Easier to test
+	- Easier to debug
+- Downsides of RDF
+	- "*I hate defining the form controls with default values then patching them with values from my model later. Also, the "type safety" promised by reactive forms is useless in practice, when you need to worry about null vs '' vs undefined in the OpenAPI generated types I'm dealing with.*"
+	- *Reactive forms are better in theory but in practice, the amount of setting up and gluing you have to do (especially between components) is just unbearable for complex form sets.*
+	- *"Ever tried refactoring and splitting complex Reactive forms across different components? It's a lot of boilerplate rewriting and highly error-prone."*
+- Cases for TDF
+	- Smaller number of inputs e.g. Search field
+		- Setting up a FormControl or FormGroup can seem overkill here.
+- Benefits of TDF
+	- Reduced code
+- Reactive has more code but the trade-off is worth it according to some.
+- Many advocates for TDF however
+	- Ward Bell
+		- [Prefer Template-Driven Forms | Ward Bell | ng-conf 2021](https://www.youtube.com/watch?v=L7rGogdfe2Q)
+		- [Form Validation Done Right | Ward Bell | ng-cof 2022](https://www.youtube.com/watch?v=EMUAtQlh9Ko)
+	- Brecht Billiet
+		- https://www.simplified.courses/complex-angular-template-driven-forms

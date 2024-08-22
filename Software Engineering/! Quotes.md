@@ -1,0 +1,1 @@
+- Companies are not hiring you to write code, they are hiring you to build a solution for their business goals.

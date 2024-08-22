@@ -1,0 +1,1 @@
+- Excessively concerned with minor details or rules.

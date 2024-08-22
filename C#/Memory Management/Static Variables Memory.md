@@ -1,0 +1,3 @@
+- Every static variable is stored on *a* Heap, regardless of whether it's declared within a reference type or a value type.
+- Notice I said a heap, not the heap; 
+	- There are in-fact multiple heaps and it's possible that a static variable may not be allocated on "the heap" (i.e. the managed heap).
