@@ -11,8 +11,12 @@
             "id": "70d9861d273e5a9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Interview Questions/Interview Questions - dotnet/5. Collections.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Interview/Interview Questions/Interview Questions - dotnet/5. Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Interview/Interview Questions/Interview Questions - dotnet/5. Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Interview/Interview Questions/Interview Questions - dotnet/5. Collections.md"
+              }
             }
           }
         ]
@@ -140,21 +148,24 @@
   },
   "active": "70d9861d273e5a9b",
   "lastOpenFiles": [
-    "Interview/Interview Questions/Interview Questions - dotnet/12. Practice.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/0. Sources.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/1. Dotnet Framework.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/2. Dotnet Core Web API.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/13. Practice.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/12. Troubleshooting.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/11. Keywords.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/5. Collections.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/7. Asynchronous & Parallel.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/9. OOP.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/8. Internals.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/10. Multi-threading.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/6. Types.md",
     "Interview/Interview Questions/Interview Questions - dotnet/4. LINQ.md",
     "Interview/Interview Questions/Interview Questions - dotnet/3. EF Core.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/5. Collections.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/6. Types.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/7. Asynchronous Programming.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/8. Internals.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/9. OOP.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/11. Troubleshooting.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/2. Dotnet Core Web API.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/1. Dotnet Framework.md",
+    "Interview/Interview Prep.md",
+    "Interview/Athora System Design.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/0. Sources.md",
     "! INBOX/Hot Code Path.md",
     "Interview/Interview Questions/Interview Questions - dotnet/Middleware.md",
-    "Interview/Interview Questions/Keywords.md",
     "Interview/Interview Questions/Interview Questions - dotnet/Common Interfaces.md",
     "Dotnet/Middleware/Middleware.md",
     "Dotnet/Filters/Filters.md",
@@ -168,9 +179,6 @@
     "Algorithms/2. Algorithms/Binary Search.md",
     "! IMAGES/Pasted image 20240821163709.png",
     "! IMAGES/Pasted image 20240821163507.png",
-    "Algorithms/1. Data Structures/Binary Search Tree.md",
-    "Algorithms/1. Data Structures/Complete Binary Tree.md",
-    "C#/Collections/Lists/1. Use Cases.md",
     "Interview/Interview Questions/Interview Questions - dotnet",
     "C#/Reflection",
     "C#/Threading",

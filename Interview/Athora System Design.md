@@ -27,10 +27,17 @@
 	 - Should I lie and say how we used Azure Dev Ops?
  - JIRA
 
+## Testing
+- Regression testing
+	- Find out whether the updates or changes had caused new defects in the existing functions. 
+
 ## Technologies
 - Angular
 - .NET Core
 - Python 3
+
+## Metrics
+- Version of a run group went down from 15 to max 3.
 
 ## AWS Technology
 - RDS

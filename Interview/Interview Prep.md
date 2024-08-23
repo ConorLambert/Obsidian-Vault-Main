@@ -16,6 +16,9 @@
 	- The above is something to say in reference to devs spending needless time on features and functionality that isn't actually needed at that moment.
 		- CSS styling.
 		- Page load speed (provided the slow speed is not making the project unusable).
+- Spend time (money) on developing unit tests rather then losing money because of a loss of customers because a bug showed up in production that caused downtime and lost trust.
+- The goal of the new UI was hide away the things they don't generally need but make them accessible if they don't need them
+	- ProductionSpecification
 
 #### Questions to ask
 - What hardware setup do you have
