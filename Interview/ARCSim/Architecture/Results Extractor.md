@@ -1,0 +1,5 @@
+- Used a python tool to extract the results and convert from hexadecimal into decimal into an excel file
+- Ran on the server that hosted the website and database
+- Readied file was available locally and downloaded from their onto the users machine through a typical download process in the browser.
+- Email sent to user with link to access.
+- Some feature in Angular/Typescript where you can download

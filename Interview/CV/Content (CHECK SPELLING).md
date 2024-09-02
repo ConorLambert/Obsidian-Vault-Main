@@ -13,6 +13,9 @@ Mid Level Software Engineer
 - *{{Something about CI/CD}}*
 	- How I migrated from manual batch script approach to using Azure.
 - Prototyped UIs using a number of different tools for customer feedback.
+- *{{Mention Calculation Engine and enhancements that where made to improve performance through vectorizations and matrix multiplications}}*
+- Refactored the Calculation Execution Engine to utilise the SIMD (Single Instruction, Multiple Data) of the underling server through the use of vectorizations which greatly enhanced the speed and performance.
+	- ??? Give some numbers
 
 ### Education
 ###### Dublin Institute of Technology (2015)
@@ -21,7 +24,7 @@ BSc in Computer Science
 
 ### Skills
 ###### Programming Languages
-- JavaScript, TypeScript, C#, Python, HTML, CSS, SQL
+- JavaScript, TypeScript, C#, Python, HTML, CSS, T-SQL
 ###### Frameworks and Libraries
 - Angular, .NET, Node.js, NGRX, Mediator, SignalR, RxJS, Pandas
 ###### Databases and ORM

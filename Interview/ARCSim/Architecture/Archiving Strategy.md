@@ -1,0 +1,8 @@
+- Types of Run Groups
+	- Production 
+	- Analyses
+- Analyses run groups where auto-purged after 1 year
+- Production run groups where auto-purged after 2 years
+- Run nightly from the Console
+- Another part of the archiving strategy was to find orphaned RunIds i.e. RunIds that existed in Transient tables that werent part of any run group. The data associated with these RunIds where purged.
+- Any time something was purged (RunGroup or RunId), it was audited for later review.

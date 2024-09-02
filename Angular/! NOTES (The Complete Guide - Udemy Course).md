@@ -148,7 +148,7 @@
 - This is why you see `ngDoCheck` execute twice during development. 
 
 #### `@ViewChild` and `ngAfterViewInit` hook.
-- Use the ngAfterViewInit hook to write any component initialization code that uses the references injected by `@ViewChild`.
+- Use the `ngAfterViewInit` hook to write any component initialization code that uses the references injected by `@ViewChild`.
 - Depending on the situation, the template references _might_ already be present on `ngOnInit()`, but we shouldn't count on it.
 - This is because the View has not been rendered until this stage.
 

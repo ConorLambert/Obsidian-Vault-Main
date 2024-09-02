@@ -3,7 +3,13 @@
 	- Not properly reading the coding question
 	- Not properly listening
 
+##### I Don't Know:
+- "I don't remember the exact constructs"
+	- If you don't remember something like how MSMQ worked.
+
 ##### Things to Mention In Interview:
+- I feel I am in a position to both fulfill my role and make the seniour engineers job easier (due to experience in Athora with UX upgrade project)
+- I conducted interviews for other candidates.
 - I continuously research new and existing technologies to enhance business processes within a company.
 	- Also research more advanced features in technologies I already know
 		- I like digging into documentation and see what features it can provide
@@ -19,6 +25,10 @@
 - Spend time (money) on developing unit tests rather then losing money because of a loss of customers because a bug showed up in production that caused downtime and lost trust.
 - The goal of the new UI was hide away the things they don't generally need but make them accessible if they don't need them
 	- ProductionSpecification
+
+#### Features I'm proud off
+- UX Upgrade
+- InputsGrid
 
 #### Questions to ask
 - What hardware setup do you have

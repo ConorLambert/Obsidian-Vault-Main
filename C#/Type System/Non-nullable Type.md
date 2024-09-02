@@ -1,0 +1,5 @@
+- Types that cannot have a `null` value
+- Value types such are inherently non-nullable and are instead defaulted to a value.
+	- Nullable value types can be created using `int? someProperty = null`
+- Reference types are non-nullable by default like value types *but only if the **nullable reference types** feature is enabled*. Otherwise they are nullable by default.
+	- Can be made nullable by using `string? someProperty = null`

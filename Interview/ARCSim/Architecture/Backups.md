@@ -1,0 +1,2 @@
+- IT backed up production on a daily basis
+- We manually backed up dev environments ourselves when needed.

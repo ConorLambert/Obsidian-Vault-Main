@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "c85a4552bfc2d831",
+        "id": "7a55f978730a4e4a",
         "type": "tabs",
         "children": [
           {
-            "id": "70d9861d273e5a9b",
+            "id": "cb6258dc5f97e20b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Interview Questions/Interview Questions - dotnet/5. Collections.md",
+                "file": "Interview/Interview Questions/Interview Questions - Angular.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eca9f0cbabdee598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Interview Prep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bd78cac1f302649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/! NOTES (The Complete Guide - Udemy Course).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Interview Questions/Interview Questions - dotnet/5. Collections.md",
+                "file": "Interview/Interview Questions/Interview Questions - Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Interview Questions/Interview Questions - dotnet/5. Collections.md",
+                "file": "Interview/Interview Questions/Interview Questions - Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Interview Questions/Interview Questions - dotnet/5. Collections.md"
+                "file": "Interview/Interview Questions/Interview Questions - Angular.md"
               }
             }
           }
@@ -146,53 +170,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70d9861d273e5a9b",
+  "active": "cb6258dc5f97e20b",
   "lastOpenFiles": [
-    "Interview/Interview Questions/Interview Questions - dotnet/13. Practice.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/12. Troubleshooting.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/11. Keywords.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/5. Collections.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/7. Asynchronous & Parallel.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/9. OOP.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/8. Internals.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/10. Multi-threading.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/6. Types.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/4. LINQ.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/3. EF Core.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/2. Dotnet Core Web API.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/1. Dotnet Framework.md",
     "Interview/Interview Prep.md",
-    "Interview/Athora System Design.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/0. Sources.md",
-    "! INBOX/Hot Code Path.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/Middleware.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/Common Interfaces.md",
-    "Dotnet/Middleware/Middleware.md",
-    "Dotnet/Filters/Filters.md",
-    "Dotnet/Filters",
-    "! IMAGES/Pasted image 20240822143723.png",
-    "Dotnet/Middleware",
-    "Software Engineering/! YouTube.md",
-    "Algorithms/1. Data Structures/Red-Black Tree.md",
-    "C#/Records/with Expression.md",
-    "C#/Records/Records vs Classes vs Structs.md",
-    "Algorithms/2. Algorithms/Binary Search.md",
-    "! IMAGES/Pasted image 20240821163709.png",
-    "! IMAGES/Pasted image 20240821163507.png",
-    "Interview/Interview Questions/Interview Questions - dotnet",
-    "C#/Reflection",
-    "C#/Threading",
-    "Dotnet/CLR/Untitled",
-    "Dotnet/CLR",
-    "Angular/Forms",
-    "Software Engineering",
-    "Dotnet/Tooling/Aspire",
-    "! IMAGES/Pasted image 20240809152606.png",
-    "! IMAGES/Pasted image 20240703101548.png",
-    "! IMAGES/Pasted image 20240702113454.png",
-    "! IMAGES/Pasted image 20240124152735.png",
-    "! IMAGES/Pasted image 20230830162859.png",
-    "! IMAGES/Pasted image 20230508194535.png",
-    "! IMAGES/Pasted image 20240118181011.png"
+    "Angular/! NOTES (The Complete Guide - Udemy Course).md",
+    "Interview/Interview Questions/Interview Questions - Angular.md",
+    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/! Resolution Process.md",
+    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Lazy Loading.md",
+    "Interview/ARCSim/Outsourced.md",
+    "Interview/Job Hunting.md",
+    "Interview/CV/Versions/General Version.md",
+    "Interview/CV/Versions/Untitled.md",
+    "Interview/Interview Questions/Troubleshooting.md",
+    "Interview/Coding Practice/Exercism/Secure Munchester United.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/6. Types.md",
+    "C#/Switch/Switch Expression.md",
+    "C#/Switch/Type Pattern Matching.md",
+    "C#/Switch/Switch Statement.md",
+    "Interview/Coding Practice/Exercism/Remote Control Cleanup.md",
+    "Interview/Coding Practice/Exercism/Developer Privileges.md",
+    "Interview/Coding Practice/Exercism/Face ID.md",
+    "Interview/Coding Practice/Exercism/Poker Hands.md",
+    "! IMAGES/Pasted image 20240830231210.png",
+    "! IMAGES/Pasted image 20240830230643.png",
+    "! IMAGES/Pasted image 20240830230525.png",
+    "! IMAGES/Breadth-First-Tree-Traversal.gif",
+    "Interview/ARCSim/ARCSim.md",
+    "Interview/ARCSim/! Terminology.md",
+    "Interview/CV/Content (CHECK SPELLING).md",
+    "Interview/CV/Versions",
+    "Interview/ARCSim/Architecture/Performance.md",
+    "Interview/ARCSim/Prototypes.md",
+    "Interview/ARCSim/Company.md",
+    "Interview/ARCSim/Front-End.md",
+    "! IMAGES/Pasted image 20240829175554.png",
+    "! IMAGES/Pasted image 20240829111818.png",
+    "! IMAGES/Pasted image 20240829104827.png",
+    "! IMAGES/Pasted image 20240829104416.png",
+    "! IMAGES/Pasted image 20240828205209.png",
+    "Dotnet/Security",
+    "Interview/Athora System Design/Architecture/Untitled",
+    "! IMAGES/Pasted image 20240827150143.png",
+    "Interview/C Project RDBMS",
+    "Interview/ARCSim/Architecture",
+    "Interview/Athora System Design/Terminology",
+    "Interview/ARCSim",
+    "Interview/Coding Practice",
+    "Interview/Coding Practice/Code Snippets",
+    "Interview/Coding Practice/Exercism"
   ]
 }

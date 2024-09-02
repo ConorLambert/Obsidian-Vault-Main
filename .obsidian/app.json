@@ -1,4 +1,10 @@
 {
   "attachmentFolderPath": "! IMAGES",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
 }

@@ -1,0 +1,21 @@
+- Why SharePoint
+	- Company wide use
+	- All data and files stored there
+	- Reporting team where use to it
+	- Reporting mostly used files
+		- They had their own validation process amongst themselves
+		- We had offered to translate everything into form based input.
+- API
+	- SharePoint API
+		- How did it work (HTTP, async, etc)
+- How it worked/interacted
+	- Template folder with all possible inputs files correctly named
+	- User creates new run group, duplicates the template folder. User would then overwrite each file.
+	- Mostly used duplicate feature which would duplicate existing folder (not the template folder).
+	- User clicks icon on front-end for an input where the sub-folder of where that input file is stored is opened.
+- .NET Modules installed (on server)
+	- ???
+- Issues
+	- Firewall/port number setting
+	- Throttling
+		- Only certain number of requests per second.

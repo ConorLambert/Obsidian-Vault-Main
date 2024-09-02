@@ -1,0 +1,40 @@
+### v1:
+- From ModelRp to CalculationKernel.
+- From [Prophet](https://www.finalyse.com/blog/actuarial-modelling-using-fisr-prophet) to CalculationKernel
+- Technologies
+	- MVC 4, .Net framework 4.5
+	- Razor and jQuery
+	- SQL Server 2012
+	- MSMQ
+	- Python 2.7
+	- Virtual Servers Windows 2012 R2
+- Improvements
+	- ModelRp
+		- ![[Pasted image 20240828205209.png|500]]
+		- Slow
+		- Error hard to track
+		- Result aggregation required outside.
+		- Brute force parallelism
+			- C++ exe launched multiple times to produce each result.
+	- Prophet didn't scale well when more cores where added.
+	- Previously didn't have a web interface
+		- In separate excel files
+
+### v2
+- jQuery to Angular
+- Whole new front-end
+- .NET framework to .NET Core
+- No MSMQ
+- AWS migration
+- Onion Architecture
+- Calculation Engine
+	- Not done by per-product anymore
+	- Done by SubRunName (Shocks) and SimRange
+	- Needed to get results of all products for certain settings early on 
+- New business unit
+- New features
+- Technologies
+	- .NET Core 2.1
+	- Angular 11
+	- SQL Server 2016
+	- Python 3.4

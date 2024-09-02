@@ -1,0 +1,12 @@
+- All logging within the C# written applications utilises the `Log4net` library to handle its logging needs.
+	- Stored as log file on the host server
+		- Each entry is date stamped
+		- Each log file is date stamped and limited to 15Mb (after which a new log file is created with a .n suffix appended to the date stamp)
+	- The logs are split into 3 levels:
+		- **Info**: 
+			- An application pulse, what is happening at any given time (e.g. polling queue for steps to execute)
+		- **Debug**: 
+			- All info level information plus further detail (e.g. polling queue for steps to execute
+		- **Error**: 
+			- Full error messages, what happened and in what location, full trace back information included.
+	- The logs are deleted when space is required (a week’s logs is all that is ever kept)

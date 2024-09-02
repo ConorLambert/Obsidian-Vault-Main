@@ -1,0 +1,14 @@
+### CQRS
+- ???
+
+### Meditator
+- ???
+
+### Facade
+- ???
+- Angular used Facade 
+
+### Redux
+- ???
+- State Management
+
