@@ -15,19 +15,19 @@
 	- At each level of the tree, we can listen to this event and perform some action
 	- Bubbling does not stop when it encounters the first listener. It continuous up the tree all the way to the root.
 - Does not work with custom events in Angular i.e. events declared using @Output
-	- Manually call .emit at each level.
+	- Manually call `.emit` at each level.
 
 ## Self Closing Tags
 - Angular has self closing tags on your custom components
 	- `<course-card />` instead of `<course-card></course-card>`
 - Only available >= **Angular 16** .
 
-## @for Options Without Reference
-- We can use the @for options without referencing them in the enclosing for declaration
+## `@for` Options Without Reference
+- We can use the `@for` options without referencing them in the enclosing `for` declaration
 - As seen with `$index` an `$first` below
 	![[Pasted image 20240626131350.png|500]]
 
-## Importance of a tracking in for @for/ngFor
+## Importance of tracking in for `@for`/`ngFor`
 - Prevents Angular from re-rendering the entire list
 - Internally, Angular performs a diff on the old data vs the new data to see if something has changed. 
 	- ???

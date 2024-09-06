@@ -4,46 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7a55f978730a4e4a",
+        "id": "44e145d14ad0d2e1",
         "type": "tabs",
         "children": [
           {
-            "id": "cb6258dc5f97e20b",
+            "id": "efbb044f884b2c65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Interview Questions/Interview Questions - Angular.md",
+                "file": "System Design/Low-Level Design/SOLID/4. Interface Segregation/Interface Segregation Explained.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eca9f0cbabdee598",
+            "id": "b9dd6048f6617aca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Interview Prep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bd78cac1f302649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular/! NOTES (The Complete Guide - Udemy Course).md",
+                "file": "Interview/Interview Questions/Interview Questions - SOLID.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Tree-shak",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Interview Questions/Interview Questions - Angular.md",
+                "file": "Interview/Interview Questions/Interview Questions - SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Interview Questions/Interview Questions - Angular.md",
+                "file": "Interview/Interview Questions/Interview Questions - SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Interview Questions/Interview Questions - Angular.md"
+                "file": "Interview/Interview Questions/Interview Questions - SOLID.md"
               }
             }
           }
@@ -170,53 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb6258dc5f97e20b",
+  "active": "b9dd6048f6617aca",
   "lastOpenFiles": [
-    "Interview/Interview Prep.md",
-    "Angular/! NOTES (The Complete Guide - Udemy Course).md",
-    "Interview/Interview Questions/Interview Questions - Angular.md",
-    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/! Resolution Process.md",
-    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Lazy Loading.md",
-    "Interview/ARCSim/Outsourced.md",
-    "Interview/Job Hunting.md",
-    "Interview/CV/Versions/General Version.md",
-    "Interview/CV/Versions/Untitled.md",
-    "Interview/Interview Questions/Troubleshooting.md",
-    "Interview/Coding Practice/Exercism/Secure Munchester United.md",
+    "System Design/Low-Level Design/SOLID/4. Interface Segregation/Interface Segregation Explained.md",
+    "Interview/Interview Questions/Interview Questions - SOLID.md",
+    "System Design/Low-Level Design/SOLID/5. Dependency Inversion/Dependency Inversion Explained.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/9. OOP.md",
+    "System Design/Low-Level Design/SOLID/3. Liskov Substitution Principal/Liskov Substitution Principle (LSP).md",
+    "System Design/Low-Level Design/SOLID/3. Liskov Substitution Principal/Detecting LSP Violations.md",
+    "System Design/Low-Level Design/SOLID/2. Open-Closed Principle/Open-Closed Principle Explained.md",
     "Interview/Interview Questions/Interview Questions - dotnet/6. Types.md",
-    "C#/Switch/Switch Expression.md",
-    "C#/Switch/Type Pattern Matching.md",
-    "C#/Switch/Switch Statement.md",
-    "Interview/Coding Practice/Exercism/Remote Control Cleanup.md",
-    "Interview/Coding Practice/Exercism/Developer Privileges.md",
-    "Interview/Coding Practice/Exercism/Face ID.md",
-    "Interview/Coding Practice/Exercism/Poker Hands.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/5. Collections.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/4. LINQ.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/3. EF Core.md",
+    "System Design/Low-Level Design/SOLID/3. Liskov Substitution Principal/Preconditions and Postconditions.md",
+    "System Design/Low-Level Design/SOLID/1. Single Responsibility Principal/SRP Explained.md",
+    "Interview/Interview Questions/Interview Questions - Angular.md",
+    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Tree-Shaking.md",
+    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injectors/ModuleInjector.md",
+    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injectors/Injector.md",
+    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injectors/EnvironmentInjector.md",
+    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injectors/ElementInjector.md",
+    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injector Hiearchies/Module Injector Hierarchy.md",
+    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injector Hiearchies/Environment Injector Hierarchy.md",
+    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injector Hiearchies/Element Injector Hierarchy.md",
+    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injector Hiearchies/! Injector Hierarchies.md",
+    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Bootstrapping/Bootstrapping Process.md",
+    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Angular Modules/Compilation Context.md",
+    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Bootstrapping/Bootstrap Definition.md",
+    "! IMAGES/Pasted image 20240906142553.png",
+    "! IMAGES/Pasted image 20240906142511.png",
+    "Coding",
+    "! IMAGES/Pasted image 20240905153948.png",
+    "CSS/Grid",
+    "! IMAGES/Pasted image 20240904212356.png",
+    "Algorithms/2. Algorithms/Patterns",
+    "C#/Unit Testing",
+    "! IMAGES/Pasted image 20240903183208.png",
+    "System Design/Low-Level Design/! INBOX",
+    "System Design/Low-Level Design/SOLID/! Concepts",
+    "System Design/Low-Level Design/SOLID/5. Dependency Inversion",
+    "System Design/Low-Level Design/SOLID/4. Interface Segregation",
+    "System Design/Low-Level Design/SOLID/3. Liskov Substitution Principal",
+    "CI-CD DevOps/Jenkins",
     "! IMAGES/Pasted image 20240830231210.png",
     "! IMAGES/Pasted image 20240830230643.png",
     "! IMAGES/Pasted image 20240830230525.png",
     "! IMAGES/Breadth-First-Tree-Traversal.gif",
-    "Interview/ARCSim/ARCSim.md",
-    "Interview/ARCSim/! Terminology.md",
-    "Interview/CV/Content (CHECK SPELLING).md",
-    "Interview/CV/Versions",
-    "Interview/ARCSim/Architecture/Performance.md",
-    "Interview/ARCSim/Prototypes.md",
-    "Interview/ARCSim/Company.md",
-    "Interview/ARCSim/Front-End.md",
-    "! IMAGES/Pasted image 20240829175554.png",
-    "! IMAGES/Pasted image 20240829111818.png",
-    "! IMAGES/Pasted image 20240829104827.png",
-    "! IMAGES/Pasted image 20240829104416.png",
-    "! IMAGES/Pasted image 20240828205209.png",
-    "Dotnet/Security",
-    "Interview/Athora System Design/Architecture/Untitled",
-    "! IMAGES/Pasted image 20240827150143.png",
-    "Interview/C Project RDBMS",
-    "Interview/ARCSim/Architecture",
-    "Interview/Athora System Design/Terminology",
-    "Interview/ARCSim",
-    "Interview/Coding Practice",
-    "Interview/Coding Practice/Code Snippets",
-    "Interview/Coding Practice/Exercism"
+    "! IMAGES/Pasted image 20240829175554.png"
   ]
 }

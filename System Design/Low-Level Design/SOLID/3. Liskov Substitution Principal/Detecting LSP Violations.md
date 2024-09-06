@@ -1,0 +1,10 @@
+- Type checking with `is` or `as` in polymorphic code
+- Null checks
+	- [Null breaks polymorphism](https://ardalis.com/nulls-break-polymorphism/)
+	- Similar to checking for `is` and `as`.
+	- Solutions
+		- Null Coalescing Operators and other null check features in C#
+		- Guard clauses
+		- [[Null Object Design Pattern]]
+- NotImplementedException
+	- Implementing class does not implement all methods of an interface

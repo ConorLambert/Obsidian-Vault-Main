@@ -1,7 +1,7 @@
 ### General Problem
 - Imagine that an application has a dependency on a module that by its turn imports another module which then provides a service class.
 - Now imagine that this imported service class is effectively not used anywhere in our application, by whatever reason!
-- If you are using for example AngularFire or other large third-party modules with tons of functionality, these modules contain all sorts of services that you might need in your application, or not.
+- If you are using large third-party modules with tons of functionality, these modules contain all sorts of services that you might not need in your application.
 - You might use some of the services, but probably not all of them.
 - *The idea is that we should be able to import a module, but if we don't use some of its services then we shouldn't need to include them in our production bundle.*
 

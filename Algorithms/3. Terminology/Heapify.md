@@ -1,0 +1,2 @@
+- Heapify is a function that ensures the subtree rooted at a given node adheres to the heap property. 
+- If the root of the subtree is smaller (or larger depending in heap type) than any of its children, it swaps with the largest child and then recursively heapifies the affected subtree.

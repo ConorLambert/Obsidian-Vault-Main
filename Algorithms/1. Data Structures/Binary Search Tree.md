@@ -1,1 +1,1 @@
-- A binary search tree is a type of [[binary tree]] that maintains the property that the left child is less than the parent, and the right child is greater.
+- A binary search tree is a type of [[binary tree]] that maintains the property that the left child is *less* than the parent, and the right child is *greater*.

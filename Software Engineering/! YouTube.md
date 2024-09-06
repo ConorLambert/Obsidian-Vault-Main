@@ -54,3 +54,24 @@
 ## Projects Every Programmer Should Try
 [Source](https://www.youtube.com/watch?v=yeatOU5vVsA)
 
+## Every Developer Needs To Know How To Do This
+[Source](https://www.youtube.com/watch?v=gKyJDvBvyQs)
+##### Overview
+- Get to the root of what your client wants
+- What is it that they actually want at the root level.
+- What is the problem they are running into.
+- Understand the why of writing the code that your writing
+- You may understand the high-level overview of what your client wants but the reason for the individual features your implementing is still unclear. 
+- They don't know there is better ways to do what they actually want deep down. 
+-  The XY problem
+	- "It occurs when someone seeking help focuses on their attempted solution (X) rather than the actual problem they're trying to solve (Y)"
+- Understand which part of your customer's business process your software implements. Don't just be a programmer, be a problem solver.
+- Question and challenge your business team, because most of the time they don't know what they need.
+- As Henry Ford (might have) said: *"If I had asked people what they wanted, they would have said faster horses."*
+##### How to Improve your Skill
+- Really understand the domain.
+- In terms of clients, get as close to the source as possible. Not the project lead but maybe the accountant/actuary etc your solving the problem for.
+- If there is a lot steps on what to do and not why to do it then go back and ask the relevant people. 
+	- Why is this button needed for example.
+		- You may have something on another page that already does it.
+

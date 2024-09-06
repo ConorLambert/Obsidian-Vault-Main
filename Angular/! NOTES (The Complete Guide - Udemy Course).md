@@ -126,7 +126,8 @@
 	- Therefore, name EventEmitters with things like click**ed** instead of click. 
 		- This also avoids naming collisions with Angular events as Angular uses the word click.
 ###### EventEmitter Handlers:
-- A handlers is a method that is called when the event is emitted. This is generally defined in the parent component.
+- A handlers is a method that is called when the event is emitted. 
+- This is generally defined in the parent component.
 - This should have the same name as the EventEmitter but prefixed with the word `on`.
 - For example, if the EventEmitter is called `messageSendSucceeded`, then the event handler should be called `onMessageSendSucceeded`.
 ```html

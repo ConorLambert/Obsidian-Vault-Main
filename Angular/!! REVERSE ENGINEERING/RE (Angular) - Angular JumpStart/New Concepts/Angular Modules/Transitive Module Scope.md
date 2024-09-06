@@ -15,7 +15,7 @@ Dev.to [Article](https://dev.to/this-is-angular/angular-revisited-tree-shakable-
 
 ![[Pasted image 20240127140030.png|400]]
 
-- The image above is a simple example of a HeroModule. 
+- The image above is a simple example of a `HeroModule`. 
 - The transitive compilation scope of HeroModule is highlighted in red and consists of:
 	- HeroComponent
 	- HeroListComponent 

@@ -32,6 +32,7 @@
 - No compacting phase takes place here due to performance issues.
 
 ## Garbage Collection Process
+[Detailed ChatGPT answer](https://chatgpt.com/c/8a1d011f-0c76-496d-be63-28895222f08a)
 1. **Marking Phase:** 
 	- The object graph is traversed starting from known root objects such as global variables or objects on the stack. 
 	- It marks reachable objects and identifies those that are unreachable.
@@ -40,12 +41,17 @@
 	- Rearranges the memory, compacting live objects to reduce fragmentation. 
 		- Compaction can enhance memory locality and, consequently, improve performance.
 	- Objects are promoted to the next generation higher.
-3. **Releasing Phase:** 
+3. **Releasing Phase:**
 	- Memory occupied by unreachable objects is released, making it available for new allocations.
 
 ## Object Graph Traversal
-- The **Marking Phase** of the collection process must commence the traversal starting from the *roots* which are the global variables or references contained in the frame of each Stack.
-- ???
+[Detailed ChatGPT answer](https://chatgpt.com/c/8a1d011f-0c76-496d-be63-28895222f08a)
+- The marking phase of the garbage collector starts by identifying all the **roots**. 
+- Roots are essentially references to objects that are directly accessible and must be kept alive. Common examples of roots include:
+	- Local variables and parameters on the stack of active threads. 
+	- Static fields of classes. 
+	- References from CPU registers.
+	- Handles to managed objects used by unmanaged code (such as those in P/Invoke or COM Interop).
 
 ## What Triggers Garbage Collection ?
 **Low Physical Memory**:

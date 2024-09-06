@@ -218,6 +218,7 @@
 - Explained further in this [ChatGPT answer](https://chatgpt.com/c/71e8124f-b3fc-4a28-af81-36bea1576656) (check highlights)
 ##### Single Instruction Multiple Data
 - Vectorization solution can use SIMD (Single Instruction, Multiple Data) and can provide some substantial speed gains
+	- [Video](https://www.youtube.com/watch?v=ulmjqD6Y4do) on SIMD
 - ChatGPT answer [here](https://chatgpt.com/c/f120a18d-3fb9-4286-9de2-e9a0ee538e8b)
 
 ### How was performance measured ?

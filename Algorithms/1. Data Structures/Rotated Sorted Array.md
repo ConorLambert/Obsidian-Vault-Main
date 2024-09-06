@@ -1,0 +1,4 @@
+- A rotated sorted array is a sorted array that has been "rotated" or shifted around a pivot point. 
+- This means that the array was initially sorted in ascending order, but then some elements from the beginning of the array were moved to the end. 
+- The result is a mix of sorted segments that still maintain an overall sorted order but with a split at the pivot.
+- For example, an array `[1, 2, 3, 4, 5]` could be rotated at index 2, resulting in `[3, 4, 5, 1, 2]`.
