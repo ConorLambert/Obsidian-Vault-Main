@@ -8,6 +8,9 @@
 ### How was state managed ?
 - Was NGRX, then moved to NGXS
 
+### Swagger
+- We used swagger to auto-generate the C# models into TypeScript code
+
 ### What RxJS operators where used ?
 [ChatGPT source](https://chatgpt.com/c/612a9b5a-de9f-496e-9621-cd40bf6bfea3)
 - map()

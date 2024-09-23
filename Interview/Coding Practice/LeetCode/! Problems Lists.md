@@ -1,0 +1,2 @@
+[How to effectively use LeetCode to prepare for interviews](https://leetcode.com/discuss/career/449135/how-to-effectively-use-leetcode-to-prepare-for-interviews)
+[Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources?tab=readme-ov-file)

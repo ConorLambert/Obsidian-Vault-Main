@@ -1,33 +1,41 @@
 # Questions: General
 ### What is Angular ?
-- Angular is an open-source, JavaScript framework written in TypeScript that is used to build web applications.
-- It is used to build professional and modern user interfaces
-- It's a component based architecture which at it's core is just sectioning off parts of a larger project into smaller logical and functional pieces that can be used and re-used throughout the application.
+- Angular is an open-source, JavaScript framework written in TypeScript that is used to build professional and modern web applications.
+- It's a component based architecture which allows you to build applications using smaller units of functionality.
 - Angular comes with everything out of the box in order to develop complex web applications without the need to install third party packages.
+
 ### What are Single Page Applications ?
+- The whole page doesn't refresh when navigating around web application.
+- Only the part that is required to change will update.
 - More responsive experience
+
 ### What is the Purpose of the Angular CLI ?
 - Converts Angular code into native JavaScript code so it can run in the browser.
 - The Angular CLI can also setup projects, runs tests and many other things.
+
 ### Explain the files and folders in an Angular project ?
 ###### angular.json
-- This is the file which has various properties and configuration of your Angular project. 
-- This is the file which is first referred by the builder to look for all the paths and configurations and to check which is the main file.
+- Various properties and configurations for your Angular project. 
+- First referred by the builder to look for all the paths and configurations and to check which is the main file.
 ###### package.json
 - Lists the npm packages required for your project.
 ###### package-lock.json
-- It stores an exact, versioned dependency tree rather than using starred versioning like `package.json` itself (e.g. 1.0.\*).
-- This means you can guarantee the dependencies for other developers or prod releases, etc.
-- We may control our own dependencies but we don't have control over the dependencies of our dependencies. 
-- More info [here](https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json)
+[ChatGPT answer](https://chatgpt.com/c/66e980ba-1994-8012-b04b-18af0cdf9c9c)
+- While `package.json` defines the required dependencies and their versions (or version ranges), `package-lock.json` stores the exact version of each installed dependency, ensuring that the same versions are installed when other developers or deployment environments run `npm install`.
+- This tree includes the dependencies of your dependencies.
+- This guarantees consistency across different environments, reducing the risk of unexpected behavior caused by installing slightly different versions of a package.
 ###### tsconfig.json
+- Specifies the *root files* and the *compiler options* required to compile the project.
 - The presence of a `tsconfig.json` file in a directory indicates that the directory is the root of a TypeScript project. 
-- Specifies the root files and the compiler options required to compile the project.
 ###### main.ts
 - Entry point of the application
 - Holds the bootstrapping code i.e. `bootstrapModule` or `bootstrap` for Angular 14+
-- The **bootstrap** array in this file lists the components that should be known to the CLI at the point of time that it analyses the **index.html** file.
-- Generally this component is the **AppComponent** contained within the **app.component.ts** file
+- Angular 14+
+	- The **bootstrap** array in this file lists the components that should be known to the CLI at the point of time that it analyses the **index.html** file.
+- Angular < 14
+	- bootstrapModule takes the root module of the application (likely the AppModule)
+	- AppModule has the **bootstrap** array
+- Generally this root component is the **AppComponent** contained within the **app.component.ts** file
 ###### index.html
 - Acts as the *single page* that is core to the SPA functionality.
 - `index.html` references the root component via the `app-root` tag.
@@ -36,6 +44,7 @@
 - The component that acts as the *root* component of the application.
 - Called from inside the **index.html** file using the `app-root` selector
 - Added to the **bootstrap** array inside the **main.ts** file so the **index.html** file can render it
+
 ### Explain how an Angular application is bootstrapped
 1. The Angular CLI first reads the `angular.json` file to determine the projects configuration.
 2. The value defined for the `main` property in `angular.json` is read to determine the main entry point of the application (which is `main.ts` by default).
@@ -54,28 +63,34 @@
 - Angular is better for larger applications where a standard must be followed.
 - Comes with everything installed out of the box.
 ### What are the advantages of Angular over React ?
+###### Tools
 - Angular comes with a complete suite of tools out of the box that can be utilized to implement complex web applications.
 - Because React relies heavily on third party packages, there is a chance that those third party packages lose support.
-- Due to Angular being an opinionated framework, it has better code maintainability particularly for larger projects. React offers multiple ways of doing things which can result in a messy code base in the long run. Different developers will use different plugins for functionality throughout the application.
-- People who are familiar with HTML and CSS find it more difficult to jump into React because the functional code is tied so heavily into the HTML and CSS. With Angular, the files are kept separately automatically.
+###### Opinionated
+- Due to Angular being an opinionated framework, it has better code maintainability particularly for larger projects. 
+- React offers multiple ways of doing things which can result in a messy code base in the long run. Different developers will use different plugins for functionality throughout the application.
+###### HTML, CSS Familiarity
+- People who are familiar with HTML and CSS find it more difficult to jump into React because the functional code is tied so heavily into the HTML and CSS. 
+- With Angular, the files are kept separately automatically.
+###### TypeScript and type safety
 - Angular is built on TypeScript so you get type safety out of the box but with React projects this is not required and often is not followed by developers.
 - More info [here](https://www.reddit.com/r/angular/comments/1b4a3gk/angular_vs_react/).
 ### Why choose React over Angular ?
-- Much easier hiring people due to the popularity of React.
-- Angular has a steep learning curve.
-- Much easier to get something out quickly due to it's lightweight nature.
-- React provides much more flexibility for experienced developers.
+- Much easier **hiring people** due to the popularity of React.
+- Angular has a **steep learning curve**.
+- Much easier to **get something out quickly** due to it's lightweight nature.
+- React provides much more **flexibility for experienced developers**.
 ### Angular vs Vue ?
 - More info [here](https://www.simform.com/blog/angular-vs-vue/)
-
 
 ------------------------------------------------------------------------
 # Questions: New Features
 ### What are Standalone Components ?
-- A feature introduced in Angular **14** 
 - Allows components to be created that don't need to be declared in an Angular module (NgModule). 
+- A feature introduced in Angular **14** 
 ### What are the benefits of Standalone Components ?
-- Reduces boilerplate code.
+- Less boilerplate code.
+- Learning curve
 - Simplified dependency management
 	- Import into component itself rather than importing at a module level.
 
@@ -84,22 +99,22 @@
 - Standalone Components
 - Signals
 - Component Input Binding
-- Inject services into functional routes
+- `@Inject` services into functional routes
 
 ------------------------------------------------------------------------
 # Questions: Concepts Basic
 ### What are Components ?
-- Fundamental building block
 - TypeScript class with an associated view and encapsulated logic
 - Created using the `@Component` decorator.
+- Fundamental building block of Angular
 
 ### What are Modules ?
-- Organize and structure an application.
 - Group related components, services, directives and pipes together
+- Organize and structure an application.
 - Makes application more modular, maintainable and scalable.
 
 ### What are Directives ?
-- Directives are classes that add additional behaviour to elements in your Angular applications.
+- +++ Directives are *classes* that add additional behaviour to elements in your Angular applications.
 - Directives are special markers in the DOM that Angular's compiler uses to manipulate elements, apply specific behaviours, or dynamically change the structure of the view.
 
 ### What are the three types of directives in Angular ?
@@ -108,11 +123,11 @@
 ###### Structural
 - Adding, removing, or manipulating elements
 ###### Attribute
-- Change appearance or behaviour of *existing element*
+- Change appearance or behaviour of existing element
 
 ### What is data binding ?
-- Synchronise data between the component (model) and the view (template). 
-- Enables dynamic communication between the UI elements and the application's underlying data, ensuring that changes in the model are reflected in the view and vice versa. 
+- Synchronize data between the component (model) and the view (template). 
+- Enables dynamic communication between the UI elements and the underlying model, ensuring that changes in the model are reflected in the view and vice versa. 
 
 ### What is two-way data binding ?
 - Bind data in both directions - from the component to the view and from the view back to the component. 
@@ -120,6 +135,7 @@
 
 ### What are Decorators and their types ?
 - Special functions that attach metadata to classes, methods, properties, or parameters, to modify their behaviour and provide information that Angular uses to perform various tasks.
+- TypeScript construct
 - Class
 	- Meta-data for classes e.g. `@Component`, `@Directive`
 - Property
@@ -141,11 +157,11 @@
 ### What are pure and impure Pipes ?
 ###### Pure
 - Only re-computes its output when its input values change. 
+- Checked only during change detection and based on *reference equality*.
 - Optimization that allows Angular to avoid unnecessary recalculations, leading to better performance.
-- Checked only during change detection and and checked based on *reference equality*.
-- All pipes in Angular are pure by default
+- All pipes are pure by default
 ###### Impure
-- Re-computes its output every change detection cycle 
+- Re-computes its output every change detection cycle regardless of whether the value has changed.
 
 ------------------------------------------------------------------------
 # Questions: Concepts Moderate
@@ -299,13 +315,26 @@
 
 ------------------------------------------------------------------------
 # Questions: RxJS
-
 ### What is an Observable ?
 - A data stream that can emit multiple values over time. Observables can be thought of as collections that arrive asynchronously.
 
 ### What is a Subject ?
 - A special type of observable that allows multicasting to multiple observers. 
 - Subjects act both as an observable and an observer, meaning they can emit new data to their subscribers as well as listen to other observables.
+
+### What are different types of Subject ?
+- **Subject**: 
+	- Doesn't revive data prior to their subscription.
+- **Behaviour Subject**: 
+	- Emits last value to all & new observers.
+- **Replay Subject**: 
+	- All observers will revive data prior to their subscription; uses a buffer to hold values and re-emits values on new subscriptions.
+
+### What is the difference between Cold and Hot Observables ?
+- **Cold Observables** 
+	- Only emit data once subscribed to;
+- **Hot Observables** 
+	- Emit values even before the subscription is made. Used when sharing data among many subscribers.
 
 ### What is a Subscription ?
 - Represents the *execution* of an observable. 
@@ -344,12 +373,17 @@
 - Debugging can be difficult
 
 ------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 # Questions: Forms
 
 ### What are Template forms ?
 - ???
 
 ### What are Reactive forms ?
+- ???
+
+### How does ControlValueAccessor keep the HTML template and component in sync for a FormControl ?
 - ???
 
 ------------------------------------------------------------------------
@@ -577,19 +611,90 @@ this.ngZone.runOutsideAngular(() => {
 # Questions: Explainer
 
 ### How do you handle HTTP requests in Angular ?
+- `HttpClient` module and class with method calls for `get`, `put`, `post`, `delete`
+- Subscribe to the above methods
+```
+.subscribe( 
+	data => { 
+		console.log('Data received:', data); 
+	}, 
+	error => { 
+		console.error('Error:', error); 
+	}
+)
+```
+- Catch errors with `pipe(catchError(this.handleError))`
+- Other code [examples](https://chatgpt.com/c/66df135e-7894-8012-8a93-252d5e01ab95) here in second question
 
 ### How do you debug an Angular application ?
+###### Chrome Dev Tools
+- Inspect elements to see if they have rendered
+- Check console for errors.
+###### Augury
+- Chrome extension that provides a visual representation of the component tree, services, routes, and more. It can help you:
+	- View the state of components and their dependencies.
+	- Track changes in Angular’s change detection cycle.
+	- Understand how your routing works.
+###### Debugging forms
+- Inspect forms state using `formGroup.value` or `formGroup.status`
+- Check for validation errors using `formGroup.get('controlName').errors`
+###### RxJS
+- Use `tap` operator to console.log values
+###### Error handling with HTTP Interceptor
+- Catch global errors and log them
+###### Network tab for HTTP requests
+- Inspect payload
+###### Console.Log statements
+- Not ideal but can help when other options are not available
+- Have used this when deploying Angular app to a server
 
 ### How do you structure your Angular application ?
+![[Pasted image 20240909164950.png|600]]
+##### Core
+- Loaded once and shared across the app e.g. authentication.
+##### Shared
+- Buttons , loaders
+##### Environment
+- environment.ts
+- environment.prod.ts
+
 
 ------------------------------------------------------------------------
 # Questions: Decision Making
 
 ### Why use lazy-loaded modules ?
+###### Improved Initial Load Time
+- The application loads only the essential parts during the initial page load.
+###### Better User Experience
+- Faster interaction times and reduce waiting periods.
+###### Optimized Performance
+- Reduced memory usage as modules are loaded as user navigates through the app.
+###### Scalability
+- Lazy loading allows you to scale your Angular app without significantly affecting the initial load performance, as unused modules won’t impact the startup time.
 
 ### How to share data between components ?
+###### Parent-to-child
+- `@Input` decorator
+###### Child-to-parent
+- `@Output` decorator and `EventEmitter`
+###### Siblings
+- Shared Service class
+###### NgRX State Management
+- For larger applications
+- Manage state in a centralised store.
+###### @ViewChild
+- Rarely used
+- Access child component and it's public properties
+	- `@ViewChild(ChildComponent) child!: ChildComponent;`
 
 ### When to use Template vs Reactive Forms ?
+==Push for case of template driven.
+Talk about Ward Bell lecture==
+==Some other talking points [[Angular/Forms/! Reddit|Angular Forms Reddit]]==
+###### Template-driven forms: 
+- Good for simpler forms where ease of use and minimal code are preferred.
+###### Reactive forms: 
+- Best for complex, dynamic, and highly customizable forms where you need more control and scalability.
 
 ### How do you deal with errors in observables?
 - `catchError` operator can be used to handle and recover from errors. 
@@ -612,26 +717,87 @@ this.ngZone.runOutsideAngular(() => {
 
 ------------------------------------------------------------------------
 # Questions: Coding Questions
-
 ### How do you implement routing in Angular ?
+[ChatGPT](https://chatgpt.com/c/66e162e5-1c34-8012-bc97-b6ef1c75fa02)
+- `<router-outlet></router-outlet>`
+- Main routing module
+- Feature router modules
+	- `{ path: 'admin', loadChildren: () => import('./admin/admin.module').then(m => m.AdminModule) }`
+- Navigate
+	- `routerLink`
+	- `this.router.navigate(['/contact'])`
+- Sending Parameters
+	- Use array
+- Handling parameters
+	- `this.route.snapshot.paramMap.get('id')`
+	- `@Input` set properties
 
 ### How would you invalidate a user's session and redirect them to login ?
-- {{It is mainly trying to get them to mention Interceptors at the HttpClient level}}
+[ChatGPT Answer](https://chatgpt.com/c/66e2a200-83cc-8012-86ba-c18b57b00905)
+1. Clear user session (e.g., remove the token).
+2. Use Router to redirect the user to the login page.
+3. Optionally, handle session expiration with an HTTP interceptor to automatically redirect when a token becomes invalid.
+
 ###  RXJS question to combine the data from 2 observables into a different formatted data as an observable
+[ChatGPT Answer](https://chatgpt.com/c/66e2a2de-8588-8012-b574-0b5adb4b58d6)
+- combineLatest
+- forkJoin
+- zip
 
 ------------------------------------------------------------------------
 # Questions: Experience
 ### What is your favourite feature of Angular ?
+- Typescript
+	- Type safety
+- RxJS
+	- Cleaner way to handle streams than Promises
+- The structure it enforces on you.
+	- Opinionated framework which is particularly good for team based environments.
+- The CLI
+	- Tooling used to quickly create project components, modules, services, pipes, etc.
 
 ### What is your least favourite feature of Angular ?
-- It was modules but something else ???
+- It was modules but something but standalone components has solved this
+	- Made the learning curve steeper IMO
+- Recently, I still think the way Reactive Forms are done could be improved
+	- Boilerplate code.
+- Can't use ngIf and ngFor on the same element.
 
 ### What project are you most proud of ?
 - Implementation of a simple relation database using the C programming language.
 - Athora upgraded project.
 
 ### What is the most complex feature you have built ?
+- InputsGrid
+	- Cell based grid
+	- Insurance product at top
+	- Inputs on the left
+	- Select one or more cells and apply the same update
+	- Had color coding for cells that had the same input.
+	- Highlight entire row.
+	- ==Wasn't the complexity that I was proud off, it's what it solved.==
+- The RunGroup comparer
+	- Team found this very useful.
 
 ### What are some ways you have used RxJS ?
+[ChatGPT source](https://chatgpt.com/c/612a9b5a-de9f-496e-9621-cd40bf6bfea3)
+- Forms
+	- debounce
+	- distinct
+	- filter (minimum character length)
+	- combineLatest()
+		- Can enable Submit button if username and password filled in
+- Toasters
+	- timers (for fading away)
+- Transformation
+	- map()
+- HTTP Requests
+	- switchMap()
+	- mergeMap()
+		- Make multiple side-by-side requests and merge the output of each request
+	- share()
+- Error handling
+	- retry()
+	- catchError()
 
 

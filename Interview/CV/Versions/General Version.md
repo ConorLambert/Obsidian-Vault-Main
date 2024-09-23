@@ -7,6 +7,7 @@ Mid Level Software Engineer
 - Developed and maintained an actuarial modelling system written in Python.
 - Refactored the Calculation Execution Engine of the actuarial model to utilize the SIMD (Single Instruction, Multiple Data) capability of the underlying server through the use of vectorizations which greatly enhanced the speed and performance.
 - Led the research, design and implementation of an upgrade to our enterprise project to improve user experience.
+- Built Jenkins pipelines ???
 - Conducted and documented requirements analysis and research sessions with multiple stakeholders and users of the system. 
 - Prototyped UIs for the purposes of customer feedback using a number of different tools.
 - Performed research and analysis on how to best improve business processes between different teams of the company.

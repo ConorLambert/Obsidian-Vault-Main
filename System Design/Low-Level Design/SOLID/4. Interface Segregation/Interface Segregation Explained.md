@@ -11,7 +11,12 @@
 - Code uses small subset of larger interface
 
 # Implementation
+### Follow other principles
+- Cohesion and SRP
+- LSP
 ### Split Interface
 - Split a bulky interface into separate interfaces
 - If the original interface is still needed, then just make that interface implement the split out interfaces.
 - Example explained [here](https://youtu.be/kF7rQmSRlq0?t=270) with the Repository pattern problem.
+### Adapter
+- For large interfaces you have no control over.

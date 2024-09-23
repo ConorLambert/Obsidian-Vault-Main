@@ -5,6 +5,11 @@
 - Worth noting that in most cases, only one class will ever implement the interface.
 - Mostly useful for mocking in Unit Tests.
 
+# Violations
+- Direct dependencies
+	- Newing up classes
+- Highly coupled classes
+
 # Implementation
 ```C#
 public IRepository

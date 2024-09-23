@@ -37,6 +37,7 @@ These properties ensure that the longest path from the root to any leaf is no mo
 
 ## Use Cases
 - `SortedDictionary<K,V>`
+- `SortedSet<T>`
 
 ## Time Complexity
 - O(log n) -> Insertion, Deletion, Search

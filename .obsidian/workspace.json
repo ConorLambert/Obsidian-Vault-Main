@@ -4,35 +4,88 @@
     "type": "split",
     "children": [
       {
-        "id": "44e145d14ad0d2e1",
+        "id": "e9d9b972e2c29e3e",
         "type": "tabs",
         "children": [
           {
-            "id": "efbb044f884b2c65",
+            "id": "a38e7445047f6f33",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Actual Interviews/Clio/Clio.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9507fa298c47a588",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Interview Questions/Experience.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0895d90ee585c645",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Interview Prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3c76af892234376c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Low-Level Design/SOLID/4. Interface Segregation/Interface Segregation Explained.md",
+                "file": "Interview/Interview Questions/Troubleshooting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b9dd6048f6617aca",
+            "id": "5f902cee00862462",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Interview Questions/Interview Questions - SOLID.md",
+                "file": "System Design/! NOTES (Dometrain Solutions Architect).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "291a7e88cc7e33b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Interview Prep.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tree-shak",
+                "query": "elevator",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 320.5
   },
   "right": {
     "id": "73f8e92950d9e3ca",
@@ -98,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Interview Questions/Interview Questions - SOLID.md",
+                "file": "Interview/Actual Interviews/Clio/Clio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Interview Questions/Interview Questions - SOLID.md",
+                "file": "Interview/Actual Interviews/Clio/Clio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Interview Questions/Interview Questions - SOLID.md"
+                "file": "Interview/Actual Interviews/Clio/Clio.md"
               }
             }
           }
@@ -159,53 +212,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9dd6048f6617aca",
+  "active": "5eb8b6e08acb218e",
   "lastOpenFiles": [
-    "System Design/Low-Level Design/SOLID/4. Interface Segregation/Interface Segregation Explained.md",
+    "Interview/Interview Prep.md",
+    "Interview/Actual Interviews/Clio/Clio.md",
+    "System Design/! NOTES (Dometrain Solutions Architect).md",
     "Interview/Interview Questions/Interview Questions - SOLID.md",
-    "System Design/Low-Level Design/SOLID/5. Dependency Inversion/Dependency Inversion Explained.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/9. OOP.md",
-    "System Design/Low-Level Design/SOLID/3. Liskov Substitution Principal/Liskov Substitution Principle (LSP).md",
-    "System Design/Low-Level Design/SOLID/3. Liskov Substitution Principal/Detecting LSP Violations.md",
-    "System Design/Low-Level Design/SOLID/2. Open-Closed Principle/Open-Closed Principle Explained.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/6. Types.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/5. Collections.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/4. LINQ.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/3. EF Core.md",
-    "System Design/Low-Level Design/SOLID/3. Liskov Substitution Principal/Preconditions and Postconditions.md",
     "System Design/Low-Level Design/SOLID/1. Single Responsibility Principal/SRP Explained.md",
+    "Interview/Interview Questions/Troubleshooting.md",
+    "System Design/! Discussions (Reddit, YT).md",
+    "Interview/Interview Questions/Experience.md",
+    "Interview/Interview Questions/Interview Questions - dotnet/1. Dotnet Framework.md",
     "Interview/Interview Questions/Interview Questions - Angular.md",
-    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Tree-Shaking.md",
-    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injectors/ModuleInjector.md",
-    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injectors/Injector.md",
-    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injectors/EnvironmentInjector.md",
-    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injectors/ElementInjector.md",
-    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injector Hiearchies/Module Injector Hierarchy.md",
-    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injector Hiearchies/Environment Injector Hierarchy.md",
-    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injector Hiearchies/Element Injector Hierarchy.md",
-    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Dependency Injection/Injector Hiearchies/! Injector Hierarchies.md",
-    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Bootstrapping/Bootstrapping Process.md",
-    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Angular Modules/Compilation Context.md",
-    "Angular/!! REVERSE ENGINEERING/RE (Angular) - Angular JumpStart/New Concepts/Bootstrapping/Bootstrap Definition.md",
-    "! IMAGES/Pasted image 20240906142553.png",
-    "! IMAGES/Pasted image 20240906142511.png",
-    "Coding",
-    "! IMAGES/Pasted image 20240905153948.png",
-    "CSS/Grid",
-    "! IMAGES/Pasted image 20240904212356.png",
-    "Algorithms/2. Algorithms/Patterns",
-    "C#/Unit Testing",
-    "! IMAGES/Pasted image 20240903183208.png",
-    "System Design/Low-Level Design/! INBOX",
-    "System Design/Low-Level Design/SOLID/! Concepts",
-    "System Design/Low-Level Design/SOLID/5. Dependency Inversion",
-    "System Design/Low-Level Design/SOLID/4. Interface Segregation",
-    "System Design/Low-Level Design/SOLID/3. Liskov Substitution Principal",
-    "CI-CD DevOps/Jenkins",
-    "! IMAGES/Pasted image 20240830231210.png",
-    "! IMAGES/Pasted image 20240830230643.png",
-    "! IMAGES/Pasted image 20240830230525.png",
-    "! IMAGES/Breadth-First-Tree-Traversal.gif",
-    "! IMAGES/Pasted image 20240829175554.png"
+    "Docker/! NOTES From Zero to Hero - Docker for Developers.md",
+    "Dotnet/LINQ/! NOTES Dometrain LINQ.md",
+    "Dotnet/Entity Framework/! NOTES Dometrain Entity Framework.md",
+    "Angular/State Management/! NOTES I bet you can understand NgRx after watching this video.md",
+    "Interview/Actual Interviews/Clio",
+    "Interview/Actual Interviews",
+    "Interview/Job Hunting.md",
+    "Interview/ARCSim/ARCSim.md",
+    "Interview/ARCSim/! Terminology.md",
+    "Interview/Coding Practice/LeetCode/! THIS WEEK/5. Longest Palindromic Substring.md",
+    "Algorithms/2. Algorithms/Patterns/Two Pointer Algorithm.md",
+    "System Design/Concepts/Containerization.md",
+    "! IMAGES/Pasted image 20240923084128.png",
+    "Interview/Interview Questions/Interview Questions - RxJS.md",
+    "! IMAGES/Pasted image 20240922222556.png",
+    "! IMAGES/Pasted image 20240922222112.png",
+    "! IMAGES/Pasted image 20240922222056.png",
+    "! IMAGES/Pasted image 20240922222051.png",
+    "Angular/State Management",
+    "Angular/Unit Testing/! NOTES A Guide to Robust Angular Applications.md",
+    "Dotnet/LINQ",
+    "Interview/Coding Practice/Frontend Mentor/! THIS WEEK/Huddle Landing with curved sections.md",
+    "Docker",
+    "Interview/Coding Practice/Frontend Mentor/! THIS WEEK/Clipboard Landing Page.md",
+    "Interview/Coding Practice/Frontend Mentor/! THIS WEEK/Flyo Landing Page with two column layout.md",
+    "Interview/Coding Practice/Frontend Mentor/! THIS WEEK/Huddle Landing Page.md",
+    "Users/conorlambert/Exercism/csharp",
+    "Users/conorlambert/Exercism",
+    "Users/conorlambert",
+    "Users",
+    "Interview/Coding Practice/Frontend Mentor/! THIS WEEK",
+    "! IMAGES/Pasted image 20240920163508.png",
+    "! IMAGES/Pasted image 20240920163347.png",
+    "! IMAGES/Pasted image 20240920163344.png",
+    "! IMAGES/Pasted image 20240920163304.png",
+    "! IMAGES/Pasted image 20240920162959.png"
   ]
 }

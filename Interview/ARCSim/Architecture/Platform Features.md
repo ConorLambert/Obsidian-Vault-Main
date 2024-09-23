@@ -24,6 +24,7 @@
 ### Compare Run Group
 - Compare run group with another run group
 - Compare different versions of the same run group.
+- ==Favourite Feature==
 
 ### Download Results
 - Download into excel file with different tabs showing different information

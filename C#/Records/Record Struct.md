@@ -6,7 +6,7 @@
 - Really good answer [here](https://stackoverflow.com/questions/74892321/what-is-the-purpose-of-a-record-struct)
 	- Single Line definition
 	- Overrides == and !=, whereas struct only has Equals by default.
-	- More informative ToString default method 
+	- More informative `ToString` default method 
 	- Has performance benefits.
 
 ### Note On Positional Records

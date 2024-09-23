@@ -1,0 +1,1 @@
+https://grid.malven.co/ (shows how to setup each property)

@@ -2,6 +2,7 @@
   "attachmentFolderPath": "! IMAGES",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
+    "includeName": false,
     "pageSize": "A5",
     "landscape": false,
     "margin": "1",

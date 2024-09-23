@@ -12,8 +12,11 @@ Really good answers on this [thread](https://stackoverflow.com/questions/6481671
 - When your data structure requires encapsulating data and behaviours or when you need to manipulate the data after its creation.
 #### Record
 - Immutability
-- DTOs
 - Value Comparison
+- DTOs
 - Don't contain any logic or very small chunks of logic (helper methods rather than business ones)
 #### Struct
-- ???
+- Immutable
+- Logically represents a single value
+- Instance size smaller than 16 bytes
+- Will not be boxed frequently.

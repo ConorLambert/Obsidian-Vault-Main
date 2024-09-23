@@ -2,19 +2,33 @@
 ### What is the Single Responsibility Principle ?
 [[SRP Explained#Definitions|Definitions]]
 
-### What exactly is a Responsibility ?
+### +++ What exactly is a Responsibility ?
 [[SRP Explained#What is a Responsibility ?|What is a Responsibility]]
+- How something is done
+	- Logging
+	- Persistence
+	- Validation
+- Things that may change at different times and for different reasons.
+- [[SRP Explained#Axes of Change|Axes of Change]]
+	- Source of changes
 
-### How can you determine if a class has multiple responsibilities ?
+### +++ How can you determine if a class has multiple responsibilities ?
 [[SRP Explained#SRP Violation|SRP Violations]]
 
-### Can you provide an example of a class that violates SRP and how you would refactor it ?
+### Can you provide an example of a class that violates SRP ?
 - A class that contains most if not all of the following
 	- Validation
 	- Logging
-	- Persistance
+	- Persistence
 	- I/O
 	- Displaying
+
+### Can you provide an example of a class that violated SRP in Athora ?
+- CreateRunGroup
+- Broke it down into classes that done the following
+	- Setup Inputs
+	- Created actions based on inputs
+	- etc
 
 ### Why is it important for a class to adhere to SRP ?
 [[SRP Explained#Purpose|Purpose]]
@@ -69,6 +83,9 @@
 # Dependency Inversion Principle (DIP)
 ### What does the Dependency Inversion Principle entail ?
 [[Dependency Inversion Explained#Definitions|Definitions]]
+
+### What are some violations of DI ?
+[[Dependency Inversion Explained#Violations|Violations]]
 
 ### How can you achieve dependency inversion in a software system ?
 - Use Interfaces in conjunction with a Dependency Injection container framework.

@@ -1,33 +1,27 @@
 ### Summary
-- Full Stack Developer with 6 years of experience in designing, developing, and maintaining web and ??? applications for clients in the financial sector.
-
+- Full Stack Developer with 6 years of experience in designing, developing, and maintaining full stack and compute heavy applications for clients in the financial sector.
 ### Experience
-###### Athora Ireland (May 2017 - November 2023)
+**Athora Ireland (May 2017 - November 2023)**
 Mid Level Software Engineer
-- Led the design and implementation of a large scale re-write of the entire stack to enhance application efficiency and usability. 
 - Developed and maintained an actuarial modelling system written in Python.
-- Central role in the migration of on-premise infrastructure to AWS cloud.
-- Performed research and analysis on how to best improve business processes between different sections of the company ???
-- Mentored junior and mid level developers, introducing Angular and more complex parts of .NET.
+- Refactored the Calculation Execution Engine of the actuarial model to utilize the SIMD (Single Instruction, Multiple Data) capability of the underlying server through the use of vectorizations which greatly enhanced the speed and performance.
+- Built and maintained multiple Jenkins pipelines to streamline our development and deployment processes
+- Led the research, design and implementation of an upgrade to our enterprise project to improve user experience..
 - Conducted and documented requirements analysis and research sessions with multiple stakeholders and users of the system. 
-- *{{Something about CI/CD}}*
-	- How I migrated from manual batch script approach to using Azure.
-- Prototyped UIs using a number of different tools for customer feedback.
-- *{{Mention Calculation Engine and enhancements that where made to improve performance through vectorizations and matrix multiplications}}*
-- Refactored the Calculation Execution Engine to utilise the SIMD (Single Instruction, Multiple Data) of the underling server through the use of vectorizations which greatly enhanced the speed and performance.
-	- ??? Give some numbers
-
+- Prototyped UIs for the purposes of customer feedback using a number of different tools.
+- Performed research and analysis on how to best improve business processes between different teams of the company.
+- Central role in the migration of on-premise infrastructure to AWS cloud.
+- Mentored junior and mid level developers, introducing Angular and more complex parts of .NET.
 ### Education
-###### Dublin Institute of Technology (2015)
+**Dublin Institute of Technology (2015)**
 BSc in Computer Science
 - Honours Graduate Student
-
 ### Skills
-###### Programming Languages
+**Programming Languages**
 - JavaScript, TypeScript, C#, Python, HTML, CSS, T-SQL
-###### Frameworks and Libraries
-- Angular, .NET, Node.js, NGRX, Mediator, SignalR, RxJS, Pandas
-###### Databases and ORM
+**Frameworks and Libraries**
+- Angular, .NET, Node.js, NGRX, NGXS, Mediator, SignalR, RxJS, Pandas
+**Databases and ORM**
 - SQL Server, MySQL, PostgreSQL, Entity Framework
-###### Tools and Platforms
-- AWS (S3, Lamda), Azure (???), Git, Webpack, JIRA, Docker, Sketch, GitHub Actions
+**Tools and Platforms**
+- Git, Jenkins, GitHub Actions, Webpack, JIRA, Docker, Sketch

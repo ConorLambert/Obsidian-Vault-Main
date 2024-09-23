@@ -1,8 +1,6 @@
+[Source](https://courses.dometrain.com/courses/take/getting-started-solution-architecture/lessons/54121793-welcome)
+
 ## Design Patterns
-
-##### ???
-- ???
-
 ##### Thinking in Patterns
 - Think patterns first, not specific services or implementation details (e.g. AWS services)
 	- Think in an abstract way and avoid implementation details
@@ -138,7 +136,6 @@
 		- When reading data from 3rd party API, write it to a local cache so that the systems will always read from the cache. If the 3rd party API is down, then the systems will read from the cache.
 
 ## Documenting Decisions
-
 ##### Architecture Decision Records (ADR)
 [Source](https://courses.dometrain.com/courses/take/getting-started-solution-architecture/lessons/54122128-architecture-decision-records)
 - Document about why you made a decision *at that point in time*.
@@ -176,3 +173,55 @@
 	- JSON is good 
 - Regular test schema interactions
 - Provide good documentation on your interface in such a way that some third party can easily understand how to use it.
+
+# Architecture Considerations
+### Evolutionary as a default
+- Change is a constant
+- Ability to meet that change is a key differentiator
+- *Evolveability is the most important -ility you need to consider in any software architecture*
+- The key idea to evolutionary architecture is to define the characteristics important to your specific system.
+- EA builds out whats called **Fitness Functions** which monitor that your system meets the characteristics that you defined as important.
+- Can be automated
+- Could be related to coupling or cohesion, availability or a whole matter of other things.
+- Once these fitness functions and automation are in place, you can focus on **incremental change** which is another important part of evolutionary architecture.
+- *Treat evolveability as a fundamental building block of your system.*
+
+### The Importance of Observability
+- You need to be able to see into your system.
+- Therefore, observability is also a core part of your architecture.
+- *A fundamental building block of observability is tracing.*
+- This doesn't mean that it's just a bunch of log entries.
+- Particularly in a distributed system, being able to trace a request across your system is something you will be happy to have once something goes wrong.
+- Metrics should also be a key part of your system.
+- However, *make sure the metrics focus on user happiness*
+	- No point in having a metric that shows something good if it has no impact on the user.
+	- Good user focused metrics are things like failed logins or orders taking a certain amount of time to process.
+- Let the metrics be driven by the traces
+	- Can analyse a subset of requests that might be taking a long time
+		- Maybe a particular user has lot's of data in their requests.
+
+### Fitness Functions
+- Provides an objective integrity assessment of some architectural characteristic.
+- Will be different per business
+- Express your intent of your architecture.
+- Collaborate closely with your developers to determine what is important and how to measure it.
+	- An architectural characteristic might be that response times need to be no longer than 100ms. Don't just dump that on your dev team from your ivory tower. If it can't happen, why can't it happen ?
+- Fitness functions can be automated or triggered manually. 
+- Can only happen if you have clearly and explicitly defined business requirements that have guided your most important functional and non-functional requirements.
+- We test our code as a normal part of the development process, *but we should also test our architectural decisions*.
+
+### Human-Centric Architecture
+- It's all of our responsibility to build more sustainable software.
+- It's a way of thinking about your systems with a human focus.
+- 4 human stakeholders in any software system:
+	- Users
+	- Business stakeholders
+	- Developers
+	- Wider human population
+- Human-centric should be just as much of a default in all architectures as evolutionary is.
+- First two seem obvious but we often forget about the developers.
+- Last stakeholder should remind you of how much technology is used in the wider population. The generations in years to come that will need it to work.
+
+# Architecture In Practice
+### Architecture In Practice
+[Source](https://courses.dometrain.com/courses/take/getting-started-solution-architecture/lessons/54122156-architecture-in-practice)

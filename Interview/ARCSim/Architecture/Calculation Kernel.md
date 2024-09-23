@@ -40,7 +40,6 @@
 
 ![[Pasted image 20240829111818.png]]
 ### Explained
-
 ### Questions
 ##### What is held in the Policy Input Buffer ?
 - [[! Terminology#Model Point|Model Point]] data
@@ -78,7 +77,7 @@
 		- 2000 sims / number of processors
 ##### Explain the Split process further ?
 - Each of the run buffers that make up a chunk altogether contain the simulations, policy information, etc that the chunk needs to run it's calculations.
-- For example, the Policy run buffer will contain only the policies that the chunk needs and nothing else. Likewise with 
+- For example, the Policy run buffer will contain only the policies that the chunk needs and nothing else. 
 - *It's not the run buffers themselves that are large, it's what they generate and the processing needed to generate it that require scaling.*
 ##### Policy vs Sim vs PolicySim ?
 - Policy
