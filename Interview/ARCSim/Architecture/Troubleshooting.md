@@ -12,12 +12,12 @@
 - Check front-end if error appears there
 - Check logs on affected server
 	- Check stack trace in the file.
-- Check Windows Event Viewer
+- Check W**indows Event Viewer**
 	- GUI.exe or Console.exe error
 	- Related to abruptly ending 
 
 ### Compute Servers
-- error.txt contains the stack trace
+- `error.txt` contains the stack trace
 - Manually log onto server, setup project in PyCharm under specific state
 	- Number of sims 1
 	- Output: CSV

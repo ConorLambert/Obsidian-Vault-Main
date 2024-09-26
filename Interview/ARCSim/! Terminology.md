@@ -98,6 +98,10 @@
 - ME: Create a scenario based on some shock (SF_UP, SF_DOWN, SPREAD, etc)
 - This formed part of the input into the Run Projection.
 
+### Stochastic Cash Flow
+- A stochastic cash flow refers to a cash flow that is uncertain or random and is modelled using probability distributions.
+- Incorporates variability due to uncertain factors like fluctuating interest rates, stock prices, inflation, and other external influences.
+
 
 
 

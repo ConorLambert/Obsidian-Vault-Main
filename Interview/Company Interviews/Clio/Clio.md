@@ -1,9 +1,7 @@
 [Interview Guidelines](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQXJGtmBnhFWWmpcdCtbvcmKDNx?projector=1&messagePartId=0.1)
+[Interview Process](https://www.clio.com/about/careers/engineering/)
 
 # Company Purpose
-- 77% of legal problems don't receive legal assistance. 81% of lawyers identified the number one thing they need to grow their law firm is simply more clients.
-- Clio breaks down barriers for firms and clients to collaborate, allowing them to work together more thoughtfully and effectively.
-- Recognizing the need for better legal tech
 - Clio breaks down barriers for firms and clients to collaborate, allowing them to work together more thoughtfully and effectively.
 - The California Innocence Project
 	- They had so many innocence cases that the company gets in a year. They need a way to manage and organize this and this is where Clio comes in.
@@ -21,13 +19,17 @@
 
 # Company Believes/Values
 - Diversity
+	- Travel Asia and met people from different backgrounds (even people who where also on their travels)
 - Customer first
 - Team work and collaboration
 - Learn from the process
 - Self care
+	- I meditate a lot
+	- Helped with a lot of issues.
 
 # Job Description
 - [Link](https://www.clio.com/about/careers/job_id=JOB_POSTING-3-2135/)
+- Working with people from many different countries
 
 # Hiring Manager Interview
 - Technical Background
@@ -47,17 +49,32 @@
 		- Python
 		- TypeScript
 		- Jenkins
-	- Code Reviews
-		- Me to Junior
-			- I would always try and make them understand the solution. 
-			- I would provide references to articles that dug further into it.
 - Interests
-	- Like finding patterns in things
-	- Like streamlining business processes
-	- I like reverse engineering things
-		- Opening up source and looking through it
-	- Looking to progress into a more system design based role
+	- In the work environment
+		- Finding patterns in things
+		- Streamlining business processes
+		- Making peoples lives easier
+		- Looking to progress into a more system design based role
+	- At home
+		- Productivity
+			- Obsidian
+		- Learning how to learn
+		- Reverse engineering things
+			- Opening up source and looking through it
 - Engineering questions to ask
+	- Thank them for their time and making the interview comfortable.
+	- What does a typical day-to-day process look like for the dev team
+		- {{Listen carefully and follow up with something they said in their answer}}
+	- Stakeholder interaction
+		{{Something to show that you are aware of customer centric focus}}
+		- Who exactly are the stakeholders ?
+		- What is the requirements phase like ?
+		- Who tests the product ?
+		- Is there a Slack channel ?
+	- Roles
+		- Any UX designers ?
+		- All full stack or front-end, back-end specific ?
+	- Team hierarchy.
 	- Tech
 		- Software stack
 		- Database
@@ -67,15 +84,6 @@
 		- Desktop setup
 		- UX Tools 
 		- Visual Studio
-	- Documentation and demos
-	- Team hierarchy
-		- What roles is there ?
-			- All full stack or front-end, back-end specific ?
-			- Any UX designers ?
-	- Stakeholder interaction
-		- What is the requirements phase like ?
-		- Who tests the product ?
-		- Is there a Slack channel ?
 
 # Programming Interview
 - Must work with the interviewer
@@ -111,10 +119,7 @@
 	- I have seen people leave my old job because there leader was difficult to deal with.
 	- Set high technical standards
 		- Broken window fallacy.
-	- I like to see people develop new skills and be more. productive.
-- How to deal with people trying to push you over.
-	- Tell them your already doing something
-		- "*I am doing A, B and C right now. I can prioritize D, if it is more urgent. Which of the other tasks should I pass to coworker or put on hold until I finish with D?*".
+	- I like to see people develop new skills and be more productive.
 - Philosophy around how you make decisions
 	- Cost
 	- Choosing one from two similar libraries
@@ -168,10 +173,20 @@
 		- Change your language based on who your talking to
 	- Be concise and quick to the point
 	- Provide a TLDR section in email proceeded by a Detailed section
+	- "*Call me and Il share my screen and we can discuss*"
+	- Put yourself in their shoes.
 	- I personally like to highlight important parts of emails.
 	- I made video tutorials in old job on how to use software.
 
+# SWOT
+- S: I have an eagerness to learn new technologies and domains
+- W: Estimates, Prioritizing
+	- Remedied this by taking more care in setting estimates (more on this [[! Reddit Discussion#How to give software estimates?|here]])).
+- O: AI and how we can use it
+
 # Things to Mention
+#### Quotes
+- "*I want to be part of the long term vision of the company*"
 #### Stakeholder Interaction
 - Communicated with people from different countries (Germany, Belgium).
 #### Mentoring Junior Devs

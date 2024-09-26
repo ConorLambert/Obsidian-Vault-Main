@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a38e7445047f6f33",
+            "id": "dcc7f0aa2ba6355d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Actual Interviews/Clio/Clio.md",
+                "file": "Interview/! NOTES Career Nailing the Behavioural Interview.md",
                 "mode": "source",
                 "source": false
               },
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Interview Questions/Experience.md",
+                "file": "Interview/Company Interviews/Clio/Clio.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,13 +36,13 @@
             }
           },
           {
-            "id": "0895d90ee585c645",
+            "id": "efdb6538664543d0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Interview Prep.md",
+                "file": "Interview/Interview Questions/Interview Questions - ARCSim.md",
                 "mode": "source",
                 "source": false
               },
@@ -50,42 +50,31 @@
             }
           },
           {
-            "id": "3c76af892234376c",
+            "id": "34426d64c3cc9561",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Interview Questions/Troubleshooting.md",
+                "file": "Interview/Coding Practice/LeetCode/! THIS WEEK/5. Longest Palindromic Substring.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5f902cee00862462",
+            "id": "619d5d4f718a7a08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/! NOTES (Dometrain Solutions Architect).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "291a7e88cc7e33b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/Interview Prep.md",
+                "file": "Interview/CV/Welfare/Applying for Jobs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elevator",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 396.5
   },
   "right": {
     "id": "73f8e92950d9e3ca",
@@ -151,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Actual Interviews/Clio/Clio.md",
+                "file": "Interview/Coding Practice/LeetCode/! THIS WEEK/5. Longest Palindromic Substring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Actual Interviews/Clio/Clio.md",
+                "file": "Interview/Coding Practice/LeetCode/! THIS WEEK/5. Longest Palindromic Substring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Actual Interviews/Clio/Clio.md"
+                "file": "Interview/Coding Practice/LeetCode/! THIS WEEK/5. Longest Palindromic Substring.md"
               }
             }
           }
@@ -212,53 +201,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5eb8b6e08acb218e",
+  "active": "34426d64c3cc9561",
   "lastOpenFiles": [
-    "Interview/Interview Prep.md",
-    "Interview/Actual Interviews/Clio/Clio.md",
-    "System Design/! NOTES (Dometrain Solutions Architect).md",
-    "Interview/Interview Questions/Interview Questions - SOLID.md",
-    "System Design/Low-Level Design/SOLID/1. Single Responsibility Principal/SRP Explained.md",
-    "Interview/Interview Questions/Troubleshooting.md",
-    "System Design/! Discussions (Reddit, YT).md",
-    "Interview/Interview Questions/Experience.md",
-    "Interview/Interview Questions/Interview Questions - dotnet/1. Dotnet Framework.md",
-    "Interview/Interview Questions/Interview Questions - Angular.md",
-    "Docker/! NOTES From Zero to Hero - Docker for Developers.md",
-    "Dotnet/LINQ/! NOTES Dometrain LINQ.md",
-    "Dotnet/Entity Framework/! NOTES Dometrain Entity Framework.md",
-    "Angular/State Management/! NOTES I bet you can understand NgRx after watching this video.md",
-    "Interview/Actual Interviews/Clio",
-    "Interview/Actual Interviews",
-    "Interview/Job Hunting.md",
-    "Interview/ARCSim/ARCSim.md",
-    "Interview/ARCSim/! Terminology.md",
+    "Interview/CV/Welfare/Applying for Jobs.md",
+    "Interview/Interview Questions/Interview Questions - ARCSim.md",
     "Interview/Coding Practice/LeetCode/! THIS WEEK/5. Longest Palindromic Substring.md",
-    "Algorithms/2. Algorithms/Patterns/Two Pointer Algorithm.md",
-    "System Design/Concepts/Containerization.md",
+    "Interview/Coding Practice/Exercism/! THIS WEEK/Largest Series Product.md",
+    "Interview/Coding Practice/Exercism/! THIS WEEK/House.md",
+    "Interview/Company Interviews/Clio/Pair Programming.md",
+    "Interview/Company Interviews/Clio/Clio.md",
+    "Interview/ARCSim/Purpose.md",
+    "Interview/! NOTES Career Nailing the Behavioural Interview.md",
+    "Interview/ARCSim/! Terminology.md",
+    "Interview/ARCSim/Outsourced.md",
+    "System Design/Estimations/! Reddit Discussion.md",
+    "Interview/CV/PDF Export.md",
+    "Interview/CV/Good examples.md",
+    "! IMAGES/Pasted image 20240924193413.png",
+    "Interview/CV/Content (CHECK SPELLING).md",
+    "Interview/CV/Versions/General Version.md",
+    "Interview/Job Hunting.md",
+    "Interview/Interview Questions/Troubleshooting.md",
+    "Interview/Interview Questions/Technologies/Interview Questions - Algorithms.md",
+    "Interview/Interview Questions/Technologies",
+    "Interview/Interview Prep.md",
+    "Interview/Interview Questions/Experience.md",
+    "Interview/ARCSim/Architecture/Troubleshooting.md",
+    "Interview/ARCSim/Architecture/Third Party Applications.md",
+    "Interview/ARCSim/Architecture/Calculation Kernel.md",
+    "System Design/Interview/1. Interview Delivery.md",
+    "Interview/ARCSim/Architecture/Design Patterns.md",
+    "! IMAGES/Pasted image 20240923210003.png",
+    "Interview/Company Interviews/Clio",
+    "Interview/Company Interviews",
     "! IMAGES/Pasted image 20240923084128.png",
-    "Interview/Interview Questions/Interview Questions - RxJS.md",
     "! IMAGES/Pasted image 20240922222556.png",
     "! IMAGES/Pasted image 20240922222112.png",
     "! IMAGES/Pasted image 20240922222056.png",
     "! IMAGES/Pasted image 20240922222051.png",
     "Angular/State Management",
-    "Angular/Unit Testing/! NOTES A Guide to Robust Angular Applications.md",
     "Dotnet/LINQ",
-    "Interview/Coding Practice/Frontend Mentor/! THIS WEEK/Huddle Landing with curved sections.md",
     "Docker",
-    "Interview/Coding Practice/Frontend Mentor/! THIS WEEK/Clipboard Landing Page.md",
-    "Interview/Coding Practice/Frontend Mentor/! THIS WEEK/Flyo Landing Page with two column layout.md",
-    "Interview/Coding Practice/Frontend Mentor/! THIS WEEK/Huddle Landing Page.md",
     "Users/conorlambert/Exercism/csharp",
     "Users/conorlambert/Exercism",
     "Users/conorlambert",
     "Users",
-    "Interview/Coding Practice/Frontend Mentor/! THIS WEEK",
     "! IMAGES/Pasted image 20240920163508.png",
     "! IMAGES/Pasted image 20240920163347.png",
-    "! IMAGES/Pasted image 20240920163344.png",
-    "! IMAGES/Pasted image 20240920163304.png",
-    "! IMAGES/Pasted image 20240920162959.png"
+    "! IMAGES/Pasted image 20240920163344.png"
   ]
 }

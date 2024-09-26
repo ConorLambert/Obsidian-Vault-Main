@@ -46,11 +46,13 @@
 - Really believe that you can do something.
 - The more you struggle, the more you will learn
 	- Whether the end result is good or not, the experience that you will get from taking on this challenge will far outweigh any negatives that you might come across.
+
 ## Immutable Design: Why You Should Care
 [Source](https://www.youtube.com/watch?v=jjf5nEmDjaE)
 - Immutability is *not only* when you request a new object upon every change. 
 	- Immutable design is a separate strategy
 - *"A large fraction of the flaws in software development are due to programmers not fully understanding all the possible states their code can execute in"* - John Carmack.
+
 ## Projects Every Programmer Should Try
 [Source](https://www.youtube.com/watch?v=yeatOU5vVsA)
 
@@ -65,7 +67,7 @@
 - They don't know there is better ways to do what they actually want deep down. 
 -  The XY problem
 	- "It occurs when someone seeking help focuses on their attempted solution (X) rather than the actual problem they're trying to solve (Y)"
-- Understand which part of your customer's business process your software implements. Don't just be a programmer, be a problem solver.
+- Understand which part of your customer's business process your software implements. *Don't just be a programmer, be a problem solver.*
 - Question and challenge your business team, because most of the time they don't know what they need.
 - As Henry Ford (might have) said: *"If I had asked people what they wanted, they would have said faster horses."*
 ##### How to Improve your Skill

@@ -1,6 +1,6 @@
 # .NET App host technology and why ?
 - Elastic Beanstalk
-- m5.4xlarge
+- `m5.4xlarge`
 - Easier to setup and manage
 
 # SQL Database host technology and why ?
